@@ -1,4 +1,11 @@
 ---
+layout:     post
+title:      Cara install Android Studio di Manjaro (Arch Linux) 
+categories: android studio
+tags:
+ - android studio
+ - Manjaro
+ - Archlinux
 published: true
 ---
 ## Cara install Android Studio di Manjaro (Arch Linux) 
