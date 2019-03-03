@@ -1,4 +1,11 @@
 ---
+layout:     post
+title:      Shortcut keyboard kde/xface
+categories: linux
+tags:
+ - linux
+ - xface
+ - kde
 published: true
 ---
 Sekarang saya akan membagi shortcut keyboard dilinux KDE/XFACE yang sering saya gunakan
