@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Sekarang saya akan membagi shortcut keyboard dilinux KDE/XFACE yang sering saya gunakan
 
@@ -17,4 +17,4 @@ Sekarang saya akan membagi shortcut keyboard dilinux KDE/XFACE yang sering saya 
 |CTRL + Shift + V |	Paste diterminal |
 |CTRL + Shift + X |	Cut diterminal |
 
-### Semoga bermanfaat.. ^_^ 
+### Semoga bermanfaat.. ^_^
