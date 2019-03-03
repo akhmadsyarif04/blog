@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Kalin ini saya akan membuat tutorial tentang clon dan push file-file html ke-Github yang sangat terkenal :D
 saya anggap kalian sudah membuat repository jadi kita langsung ke bagian clone. buka terminal kalian, terus ketikan yang dibawah ini
