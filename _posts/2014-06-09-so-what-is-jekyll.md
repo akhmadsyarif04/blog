@@ -1,21 +1,31 @@
 ---
-layout:     post
-title:      So, What is Jekyll?
-date:       2014-06-09 12:32:18
-summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
+layout: post
+title: 'Install Plugin Battery Linux Xface/Backbox '
+date: {}
+summary: >-
+  Transform your plain text into static websites and blogs. Simple, static, and
+  blog-aware.
 categories: jekyll
 thumbnail: jekyll
 tags:
- - about
- - jekyll
+  - about
+  - jekyll
+published: true
 ---
 
-Jekyll is a tool for transforming your plain text into static websites and
-blogs. It is simple, static, and blog-aware. Jekyll uses the
-[Liquid](http://docs.shopify.com/themes/liquid-basics) templating
-language and has builtin [Markdown](http://daringfireball.net/projects/markdown/)
-and [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) support.
+Kemaren saya mengalami tragedi dimana tragedi tersebut sangat-sangat mengesalkan, yaitu icon plugin battery panel dilinux backbox saya HILANG.. bukan hanya icon nya tapi juga plugin nya ikut hilang. T_T
+Saya juga tidak tau penyebab nya apa. Jadi saya langsung searching google cara mengembalikan icon battery tapi tidak pernah ketemu. Hampir semua tutorial yang saya cari cuman untuk memasang icon panel battery nya saja bukan mengembalikan plugin nya.
 
-It also ties in nicely to [Github Pages](https://pages.github.com/).
+Oke langsung saja, { pada kasus ini saya menggunakan backbox }
+1. buka terminal kalian dan ketikan perintah ini : 
+> sudo apt-get update 
+> sudo apt-get install xfce4-battery-plugin 
 
-Learn more about Jekyll on their [website](http://jekyllrb.com/).
+2. setelah itu klik kanan pada panel
+3. pilih panel
+4. pilih add new items
+5. cari battery
+6. klik dan add
+tralaaaa, plugin dan icon battery kembali ada.
+
+Semoga bermanfaat.. ^_^ Thanks untuk https://www.howtoinstall.co/en/ubuntu/utopic/xfce4-battery-plugin .
