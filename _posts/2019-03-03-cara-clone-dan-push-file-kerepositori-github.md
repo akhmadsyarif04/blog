@@ -1,7 +1,12 @@
 ---
+layout:     post
+title:      Cara clone dan push file ke github
+categories: github
+tags:
+ - github
 published: true
 ---
-Kalin ini saya akan membuat tutorial tentang clon dan push file-file html ke-Github yang sangat terkenal :D
+Kali ini saya akan membuat tutorial tentang clone dan push file-file html ke-Github yang sangat terkenal :D
 saya anggap kalian sudah membuat repository jadi kita langsung ke bagian clone. buka terminal kalian, terus ketikan yang dibawah ini
 
 ```html
