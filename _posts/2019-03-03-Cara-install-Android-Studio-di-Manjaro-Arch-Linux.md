@@ -44,8 +44,7 @@ maka android studio akan berjalan. silahkan dinext next aja.. hihihi
 Kalo sudah tampil seperti ini
 
 
-{% include image.html file="{{site.baseurl}}/_posts/error-android.jpg" alt="Jekyll" caption="This is a sample caption" %}
-
+![Thumper]({{site.baseurl}}/_posts/error-android.jpg)
 
 
 Pilih Start a new Android Studio Project Kalau tidak ada error maka selamat anda berhasil instalasi Android Studio.  
