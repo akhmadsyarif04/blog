@@ -6,17 +6,17 @@ Saya juga tidak tau penyebab nya apa. Jadi saya langsung searching google cara m
 
 Oke langsung saja, { pada kasus ini saya menggunakan backbox }
 
-1 buka terminal kalian dan ketikan perintah ini :
+1. buka terminal kalian dan ketikan perintah ini :
 ```html
 sudo apt-get update
 sudo apt-get install xfce4-battery-plugin
 ```
 
-2 setelah itu klik kanan pada panel
-3 pilih panel
-4 pilih add new items
-5 cari battery
-6 klik dan add
+2. setelah itu klik kanan pada panel
+3. pilih panel
+4. pilih add new items
+5. cari battery
+6. klik dan add
 tralaaaa, plugin dan icon battery kembali ada.
 
 Semoga bermanfaat.. ^_^ Thanks untuk https://www.howtoinstall.co/en/ubuntu/utopic/xfce4-battery-plugin .
