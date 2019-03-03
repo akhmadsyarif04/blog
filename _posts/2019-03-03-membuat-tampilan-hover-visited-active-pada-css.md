@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      Membuat Tampilan Hover, visited, active pada CSS
+categories: css
+tags:
+ - css
 published: true
 ---
 ## Membuat Tampilan Hover, visited, active pada CSS
