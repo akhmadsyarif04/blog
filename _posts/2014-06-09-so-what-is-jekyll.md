@@ -5,11 +5,11 @@ date: {}
 summary: >-
   Transform your plain text into static websites and blogs. Simple, static, and
   blog-aware.
-categories: jekyll
-thumbnail: jekyll
+categories: Linux
+thumbnail: linux
 tags:
   - about
-  - jekyll
+  - linux
 published: true
 ---
 
