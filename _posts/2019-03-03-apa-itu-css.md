@@ -62,10 +62,10 @@ Selanjutnya kita akan mengenal nama-nama setiap bagian CSS :
 }
 ```
    
-   h1 -> Selector
-    { } -> Deklarasi
-    font-size -> Properti
-    15px -> Nilai/Value
+   * h1 -> Selector
+   * { } -> Deklarasi
+   * font-size -> Properti
+   * 15px -> Nilai/Value
 
 
 Sekian dan terimakasih, semoga bermanfaat. ^_^ 
