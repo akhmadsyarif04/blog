@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Cara install Android Studio di Manjaro (Arch Linux) 
 
