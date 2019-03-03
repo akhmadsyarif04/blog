@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Membuat Koneksi database dari PHP ke MySQL 
 
@@ -24,4 +24,4 @@ urutan dari value disesuaikan dengan urutan field database kalian. -> ketikan ur
 -> jangan lupa jalankan phpmyadmin menjadi running.  
 selesai.
 
-Kalau ada yang salah tolong komentar nya ya.. Selamat mencoba. ^_^ 
+Kalau ada yang salah tolong komentar nya ya.. Selamat mencoba. ^_^
