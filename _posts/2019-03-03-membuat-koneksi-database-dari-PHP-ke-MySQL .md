@@ -1,4 +1,10 @@
 ---
+layout:     post
+title:      Membuat Koneksi database dari PHP ke MySQL 
+categories: php
+tags:
+ - php
+ - mysql
 published: true
 ---
 ## Membuat Koneksi database dari PHP ke MySQL 
