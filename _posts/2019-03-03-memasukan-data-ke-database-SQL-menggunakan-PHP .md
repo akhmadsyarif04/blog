@@ -19,7 +19,8 @@ selanjutanya kita beri perintah untuk menjalankan query tersebut
 ```html
 mysqli_query($link,$query);
 ```
-> keterangan : 1.$query = nama vaiabel query insert tadi.  
+> keterangan :  
+1.$query = nama vaiabel query insert tadi.  
 2.$link = nama variabel koneksi kedatabase.  
 
 nah sekarang data telah ditambahkan kedalam database.  
@@ -27,7 +28,7 @@ kalian bisa menyesuaikan dengan program kalian masing-masing. misal dari nilai y
 form website. maka perlu ditampung terlebih dulu nilai tersebut kevariabel atau pada query sql VALUE ( ) kalian isi dengan :
 
 ```html
-$query = "INSERT INTO namatable (field1,field2,field3) VALUE ($_POST['nama_ipnut'],$_POST['nama_ipnut'],$_POST['nama_ipnut'])"
+$query = "INSERT INTO namatable (field1,field2,field3) VALUE ($_POST['nama_input'],$_POST['nama_input'],$_POST['nama_input'])"
 ```
 
-Kalau ada yang salah tolong komentar nya ya.. Selamat mencoba. ^_^ 
+Kalau ada yang salah tolong komentar nya ya.. Selamat mencoba. dan semoga bermanfaat. ^_^
