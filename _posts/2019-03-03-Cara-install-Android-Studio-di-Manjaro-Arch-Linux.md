@@ -43,14 +43,13 @@ maka android studio akan berjalan. silahkan dinext next aja.. hihihi
 
 Kalo sudah tampil seperti ini
 
-
-![Thumper](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/error-android.jpg)
+![Thumper](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/tampilan-android-1.png)
 
 
 Pilih Start a new Android Studio Project Kalau tidak ada error maka selamat anda berhasil instalasi Android Studio.  
 Kalau ada error seperti ini
 
-![error-android.jpg]({{site.baseurl}}/_posts/error-android.jpg)
+![Thumper](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/error-android.jpg)
 
 Maka lakukan secara berurutan langkah dibawah ini
 
