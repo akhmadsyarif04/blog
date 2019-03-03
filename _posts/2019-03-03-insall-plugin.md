@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Kemaren saya mengalami tragedi dimana tragedi tersebut sangat-sangat mengesalkan, yaitu icon plugin battery panel dilinux backbox saya HILANG.. bukan hanya icon nya tapi juga plugin nya ikut hilang. T_T
 Saya juga tidak tau penyebab nya apa. Jadi saya langsung searching google cara mengembalikan icon battery tapi tidak pernah ketemu. Hampir semua tutorial yang saya cari cuman untuk memasang icon panel battery nya saja bukan mengembalikan plugin nya.
