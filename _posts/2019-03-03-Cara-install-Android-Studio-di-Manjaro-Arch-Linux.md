@@ -43,7 +43,10 @@ maka android studio akan berjalan. silahkan dinext next aja.. hihihi
 
 Kalo sudah tampil seperti ini
 
-![tampilan-android-1.png]({{site.baseurl}}/_posts/tampilan-android-1.png)
+
+{% include image.html file="{{site.baseurl}}/_posts/error-android.jpg" alt="Jekyll" caption="This is a sample caption" %}
+
+
 
 Pilih Start a new Android Studio Project Kalau tidak ada error maka selamat anda berhasil instalasi Android Studio.  
 Kalau ada error seperti ini
