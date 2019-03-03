@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Pada kali ini saya pengen berbagi cara menggunakan xxd command pada terminal untuk convert hexadump atau sebaliknya.
 
@@ -55,3 +55,7 @@ xxd -b test.txt
 ```html
 xxd -r -p test.txt
 ```
+
+Semoga bermanfaat dan mencoba.  
+
+*jika dalam blog ini terdapat kesalahan mohon comment dibawah*
