@@ -1,4 +1,10 @@
 ---
+layout:     post
+title:      Memasukan Data keDatabase SQL Menggunakan PHP  
+categories: php
+tags:
+ - php
+ - mysql
 published: true
 ---
 ## Memasukan Data keDatabase SQL Menggunakan PHP 
