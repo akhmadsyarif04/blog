@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      Apa itu c++ 
+categories: c++
+tags:
+ - c++
 published: true
 ---
 ## Apa itu CSS?
