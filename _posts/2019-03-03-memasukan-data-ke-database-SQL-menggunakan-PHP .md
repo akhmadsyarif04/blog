@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Memasukan Data keDatabase SQL Menggunakan PHP 
 
