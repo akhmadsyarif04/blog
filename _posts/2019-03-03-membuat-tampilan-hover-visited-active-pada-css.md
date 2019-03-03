@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Membuat Tampilan Hover, visited, active pada CSS
 
@@ -44,4 +44,4 @@ Bikin file stylelink.html lalu copas code dibawah ini :
 ```
 
 Dan untuk menghilangkan garis pada link anda bisa gunakan text-decoration: none;  
-Kalau sudah save, dan coba jalankan dibrowser anda. Selamat mencoba. ^_^ 
+Kalau sudah save, dan coba jalankan dibrowser anda. Selamat mencoba. ^_^
