@@ -1,4 +1,11 @@
 ---
+layout:     post
+title:      install plugin battery xface
+categories: linux
+tags:
+ - linux
+ - backbox
+ - xface
 published: true
 ---
 Kemaren saya mengalami tragedi dimana tragedi tersebut sangat-sangat mengesalkan, yaitu icon plugin battery panel dilinux backbox saya HILANG.. bukan hanya icon nya tapi juga plugin nya ikut hilang. T_T
