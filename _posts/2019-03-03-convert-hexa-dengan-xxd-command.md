@@ -1,4 +1,10 @@
 ---
+layout:     post
+title:      convert hexa dengan xxd command
+categories: linux
+tags:
+ - linux
+ - hexa
 published: true
 ---
 Pada kali ini saya pengen berbagi cara menggunakan xxd command pada terminal untuk convert hexadump atau sebaliknya.
@@ -21,7 +27,7 @@ xxd test.txt
 ```
 
 hasil nya seperti dibawah ini :
-![DeepinScreenshot_select-area_20190303230252.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190303230252.png)
+![DeepinScreenshot_select-area_20190303230252.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190303230252.png)
 
 
 ### Cara memulai convert dari baris tertentu
@@ -33,7 +39,7 @@ xxd -s 0x20 test.txt
 ```
 
 hasil nya seperti dibawah ini :
-![DeepinScreenshot_select-area_20190303230252.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190303230252.png)
+![DeepinScreenshot_select-area_20190303230252.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190303230915.png)
 silahkan kalian bandingkan dengan yang pertama tadi.  
 
 ### Cara membatasi ouput 
