@@ -28,7 +28,8 @@ git commit -m "fush"
 
 kalau terjadi error dengan pesan seperti ini
 
-git config --global user.email "you@example.com".
+git config --global user.email "you@example.com"
+
 git config --global user.name "you name"
 
 ketikan seperti ini.
