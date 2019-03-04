@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Apa itu ndisasm
-categories: Linux
+categories: linux
 tags:
  - linux
  - assembly
