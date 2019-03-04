@@ -90,7 +90,9 @@ ndisasm -b 64 test.txt
 ouput nya seperti dibawah ini : 
 ![DeepinScreenshot_select-area_20190304110926.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190304110926.png)
 
-
+- sebelah kiri adalah alamat memori.  
+- tengah adalah urutan dari bytes (opcode dan operands) mewakilkan dari harsi intruction(instruksi) pada bahasa assembly sebelah kanan.  
+- sebelah kanan adalah intruksi dari bahasa assembly.
 
 Semoga bermanfaat dan mencoba. 
 
