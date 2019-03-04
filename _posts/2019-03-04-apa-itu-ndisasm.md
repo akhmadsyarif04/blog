@@ -1,4 +1,10 @@
 ---
+layout:     post
+title:      Apa itu ndisasm
+categories: Linux
+tags:
+ - linux
+ - assembly
 published: true
 ---
 Ndisasm adalah program untuk Netwide Assembler (NASM). NASM itu apa gan? jadi NASM itu adalah sebuah assembler dan disassembler untuk Intel arsitektur x86. ini juga bisa digunakan untuk menulis untuk 16-bit, 32-bit (IA-32), dan 64-bit (x85-64). NASM adalah assembler terkenal di kalangan linux.  
@@ -82,7 +88,9 @@ kemudian jalankan diterminal pada folder tempat menyimpan file test.txt tadi
 ndisasm -b 64 test.txt
 ```
 ouput nya seperti dibawah ini : 
-![DeepinScreenshot_select-area_20190304110926.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190304110926.png)
+![DeepinScreenshot_select-area_20190304110926.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190304110926.png)
+
+
 
 Semoga bermanfaat dan mencoba. 
 
