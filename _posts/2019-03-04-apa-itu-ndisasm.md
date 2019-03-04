@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Ndisasm adalah program untuk Netwide Assembler (NASM). NASM itu apa gan? jadi NASM itu adalah sebuah assembler dan disassembler untuk Intel arsitektur x86. ini juga bisa digunakan untuk menulis untuk 16-bit, 32-bit (IA-32), dan 64-bit (x85-64). NASM adalah assembler terkenal di kalangan linux.  
 
