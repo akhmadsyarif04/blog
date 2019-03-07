@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Pengenalan Dasar Dari Intelligent System pada Artificial Intelligent
+title:      Artificial Intelligent Part 1 Pengenalan Dasar Dari Intelligent System 
 categories: AI
 tags:
  - AI
