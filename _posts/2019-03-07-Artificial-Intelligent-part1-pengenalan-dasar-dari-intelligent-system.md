@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Pengenalan Dasar Dari Intelligent System pada Artificial Intelligent
+categories: AI
+tags:
+ - AI
+published: true
 ---
 # Pengenalan Dasar Dari Intelligent System pada Artificial Intelligent
 
