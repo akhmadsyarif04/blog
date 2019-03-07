@@ -22,6 +22,9 @@ Tadi kita bicara tentang berpikir maka mari kita cari arti kata berpikir dalam k
 Jadi dalam berpikir seseorang atau sesuatu benda harus mempunyai otak atau sebuah alat yang memungkinkan untuk belajar dan memahami dalam menyelesaikan suatu permasalahan. Jadi bisa kita simpulkan bahwa ‘Intelligence adalah suatu kemampuan dalam belajar dan memahami suatu hal untuk menyelesaikan suatu masalah dan membuat suatu keputusan yang akan diambil’.
 	
 Tujuan dari Artificial Intelligence (AI) itu sendiri adalah ilmu untuk membuat sebuah mesin melakukan hal-hal yang memerlukan kecerdasan jika dilakukan oleh manusia, dikatakan oleh Boden pada tahun 1977.
+
+Dan menurut saya sendiri tujuan dari Artificial Intelligence (AI) adalah untuk membuat sebuah mesin bisa berpikir cerdas seperti hal nya manusia untuk melakukan pemecahan masalah untuk menentukan keputusan yang akan diambil secara statistik.  
+Dan arti dari Artificial Intelligence (AI) adalah sebuah mesin yang didalam nya memiliki banyak data untuk dikelola dan dipelajari menjadi sebuah solusi dalam pemecahan suatu masalah untuk menentukan keputusan yang diambil.
     
 *dirangkum dari buku  
 MICHAEL NEGNEVITSKY  
