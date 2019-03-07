@@ -23,8 +23,8 @@ Jadi dalam berpikir seseorang atau sesuatu benda harus mempunyai otak atau sebua
 	
 Tujuan dari Artificial Intelligence (AI) itu sendiri adalah ilmu untuk membuat sebuah mesin melakukan hal-hal yang memerlukan kecerdasan jika dilakukan oleh manusia, dikatakan oleh Boden pada tahun 1977.
 
-Dan menurut saya sendiri tujuan dari Artificial Intelligence (AI) adalah untuk membuat sebuah mesin bisa berpikir cerdas seperti hal nya manusia untuk melakukan pemecahan masalah untuk menentukan keputusan yang akan diambil secara statistik.  
-Dan arti dari Artificial Intelligence (AI) adalah sebuah mesin yang didalam nya memiliki banyak data untuk dikelola dan dipelajari menjadi sebuah solusi dalam pemecahan suatu masalah untuk menentukan keputusan yang diambil.
+Dan menurut saya sendiri tujuan dari Artificial Intelligence (AI) adalah untuk membuat sebuah mesin bisa berpikir secara cerdas seperti hal nya manusia dalam melakukan pemecahan masalah dan menentukan keputusan yang akan diambil secara statistik.  
+Dan arti dari Artificial Intelligence (AI) adalah sebuah mesin yang didalam nya memiliki banyak data untuk dikelola dan dipelajari menjadi sebuah solusi dalam pemecahan suatu masalah untuk menentukan keputusan yang akan diambil.
     
 *dirangkum dari buku  
 MICHAEL NEGNEVITSKY  
