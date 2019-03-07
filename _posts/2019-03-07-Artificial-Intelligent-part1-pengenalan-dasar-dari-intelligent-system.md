@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Artificial Intelligent Part 1 : Apakah mesin bisa berpikir cerdas ?
+title:      Artificial Intelligent Part 1 Apakah mesin bisa berpikir cerdas ?
 categories: AI
 tags:
  - AI
