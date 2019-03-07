@@ -25,4 +25,3 @@ Artificial
 Intelligence  
 A Guide to Intelligent Systems  
 Second Edition ADDISON WESLEY
-
