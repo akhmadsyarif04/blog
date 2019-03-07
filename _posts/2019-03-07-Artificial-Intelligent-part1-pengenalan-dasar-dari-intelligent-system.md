@@ -1,16 +1,12 @@
 ---
 layout:     post
-title:      Artificial Intelligent Part 1 Pengenalan Dasar Dari Intelligent System 
+title:      Artificial Intelligent Part 1 : Apakah mesin bisa berpikir cerdas ?
 categories: AI
 tags:
  - AI
 published: true
 ---
-# Pengenalan Dasar Dari Intelligent System pada Artificial Intelligent
-
-Apa yang dipertimbangkan dalam kecerdasan (Intelligence) dan apakah mesin bisa berpikir cerdas ?
-
-(Intelligent machines) Kecerdasan mesin, dan apa yang bisa mesin lakukan ?
+## Apa yang dipertimbangkan dalam kecerdasan (Intelligence) dan apakah mesin bisa berpikir cerdas ?
 
 Para philosophy telah mencoba lebih dari 2000 tahun untuk mengerti dan menghasilkan 2 pertanyaan besar disemesta ini. Yaitu bagaimana pikiran manusia bekerja, dan bisakah yang bukan manusia atau sebuah mesin mempunyai pemikiran seperti hal nya manusia berpikir. Namun, pertanyaan mereka masih belum terjawab dari buku yang saya baca ini. 
 
