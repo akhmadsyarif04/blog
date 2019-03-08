@@ -19,7 +19,7 @@ npm install @vue/cli -g
 
 Setelah Vue CLI terinstall mari kita coba buat project baru dengan perintah :
 ```html
-vue create my-app
+vue create project-baru
 ```
-> my-app adalah nama project
+> project-baru adalah nama project
 
