@@ -23,3 +23,4 @@ vue create project-baru
 ```
 > project-baru adalah nama project
 
+![DeepinScreenshot_select-area_20190308142431.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190308142431.png)
