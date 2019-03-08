@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Vuetify part 1 : setup project 
+title:      Vuetify part 1 setup project 
 categories: vuetify
 tags:
  - vuetify
