@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      Artificial Intelligent Part 1 Apakah mesin bisa berpikir cerdas ?
+title:      Artificial Intelligent Part 1 Penjelasan Artificial Intelligent
 categories: AI
 tags:
  - AI
 published: true
 ---
-## Apa yang dipertimbangkan dalam kecerdasan (Intelligence) dan apakah mesin bisa berpikir cerdas ?
+## Seperti apa Artificial Intelligent itu ?
 
-Para philosophy telah mencoba lebih dari 2000 tahun untuk mengerti dan menghasilkan 2 pertanyaan besar disemesta ini. Yaitu bagaimana pikiran manusia bekerja, dan bisakah yang bukan manusia atau sebuah mesin mempunyai pemikiran seperti hal nya manusia berpikir. Namun, pertanyaan mereka masih belum terjawab dari buku yang saya baca ini. 
+Para philosophy telah mencoba lebih dari 2000 tahun untuk mengerti dan menghasilkan 2 pertanyaan besar disemesta ini. Yaitu bagaimana pemikiran manusia bekerja, dan bisakah yang bukan manusia atau sebuah mesin mempunyai pemikiran seperti hal nya manusia berpikir. Namun, pertanyaan mereka masih belum terjawab dari buku yang saya baca ini. 
 
 Beberapa philosophy telah mengambil pendekatan komputasi yang berasal dari ilmuwan komputer dan menerima pernyataan bahwa mesin juga bisa berpikir seperti manusia lakukan. Dan beberapa philosophy secara terbuka tidak menerima pernyataan tersebut. Bahwa mesin tidak  akan bisa memiliki cinta, moral dan kreatifitas seperti hal nya manusia lakukan dan punya. 
 
@@ -26,7 +26,7 @@ Tujuan dari Artificial Intelligence (AI) itu sendiri adalah ilmu untuk membuat s
 Dan menurut saya sendiri tujuan dari Artificial Intelligence (AI) adalah untuk membuat sebuah mesin bisa berpikir secara cerdas seperti hal nya manusia dalam melakukan pemecahan masalah dan menentukan keputusan yang akan diambil secara statistik.  
 Dan arti dari Artificial Intelligence (AI) adalah sebuah mesin yang didalam nya memiliki banyak data untuk dikelola dan dipelajari menjadi sebuah solusi dalam pemecahan suatu masalah untuk menentukan keputusan yang akan diambil.
     
-*dirangkum dari buku  
+*referensi dari buku  
 MICHAEL NEGNEVITSKY  
 Artificial  
 Intelligence  
