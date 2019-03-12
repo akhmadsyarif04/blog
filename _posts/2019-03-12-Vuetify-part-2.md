@@ -75,12 +75,16 @@ maka seluruh script pada file vuetify.js seperti gambar ini :
 untuk daftar color pada vuetify bisa kalian lihat disini : [https://vuetifyjs.com/en/framework/colors#colors](https://vuetifyjs.com/en/framework/colors#colors)
 
 penjelasan :
-``` <p class="pink lighten-4 red--text"> ```
+``` <p class="pink lighten-4 red--text"> ```  
 > lighten-4 = adalah agar contrass cahaya terang pada background. lebih besar maka lebih terang, lebih kecil maka akan gelap.  
 jika pada text maka text--darken-4.
 
 penjelasan :
-``` <h1 class="display-4"> ```
+``` <h1 class="display-4"> ```  
 > display-4 = untuk memperbesar text atau font beda dengan h1 h2 dll.  
 misalkan aja pada display-1 dengan h1 pada header Homepage. bisa dilihat bahawa display-1 lebih besar dibanding h1
+
+penjelasan : 
+``` <p class="subheading font-weight-bold"> ```
+
 
