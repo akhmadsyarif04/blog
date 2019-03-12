@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Memulai ngoding dengan component Vuetify.
 
@@ -34,4 +34,3 @@ Sekarang mari kita mulai belajar component vuetify.
 
 2. delete file HelloWorld.vue pada folder components.
 3. masuk folder views, pada file home sesuaikan seperti dibawah ini
-
