@@ -21,3 +21,5 @@ jadi pada file app.vue itu adalah route atau jembatan bagi folder component dan 
 - Folder plugin adalah berisi plugin yang kita install. seperti pada part 1 kita menginstall vuetify pada project kita (vue.js kita) maka disitu akan muncul vuetify.
 - Folder asset adalah berisi aset-aset berharga kita yang diupload, misal nya gambar dan video.
 
+Jelas ya untuk masalah folder pada folder /src yang kita gunakan untuk tampilan website kita.
+
