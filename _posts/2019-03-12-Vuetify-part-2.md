@@ -15,3 +15,7 @@ didalam folder project. Disana ada file dengan nama app.vue. lihat gambar dibawa
 
 jadi pada file app.vue itu adalah route atau jembatan bagi folder component dan pada folder views yang mana file didalam folder tersebut akan diproses atau dijalankan.
 
+
+Pada folder component itu berisi file component yang mau kita letahkan pada tampilan tamplate. misalnya : header, footer, navigasi headbar dan lain-lain.  
+Pada folder views adalah berisi file tamplate sesuai dengan nama konten. misal konten pada HOME, BIODATA, ARTIKEL dan lain-lain.
+
