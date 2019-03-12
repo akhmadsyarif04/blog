@@ -13,7 +13,7 @@ didalam folder project. Disana ada file dengan nama app.vue. lihat gambar dibawa
 
 ![DeepinScreenshot_select-area_20190312164123.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312164123.png)
 
-jadi pada file app.vue itu adalah route atau jembatan bagi folder component dan pada folder views yang mana file didalam folder tersebut akan diproses atau dijalankan.
+jadi pada file app.vue itu adalah root atau file utama untuk jembatan bagi folder component dan pada folder views yang mana file didalam folder tersebut akan diproses atau dijalankan.
 
 
 - Folder component itu berisi file component yang mau kita letahkan pada tampilan tamplate. misalnya : header, footer, navigasi headbar dan lain-lain.  
@@ -22,4 +22,5 @@ jadi pada file app.vue itu adalah route atau jembatan bagi folder component dan 
 - Folder asset adalah berisi aset-aset berharga kita yang diupload, misal nya gambar dan video.
 
 Jelas ya untuk masalah folder pada folder /src yang kita gunakan untuk tampilan website kita.
+Sekarang mari kita 
 
