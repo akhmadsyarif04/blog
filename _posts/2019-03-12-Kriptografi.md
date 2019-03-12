@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      Apa itu kriptografi
+categories: kriptografi
+tags:
+ - kriptografi
 published: true
 ---
 ## Kriptografi
