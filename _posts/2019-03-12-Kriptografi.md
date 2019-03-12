@@ -24,3 +24,16 @@ KUNCI
 
 maka kalo di dekripsi akan menjadi :
 data acak (chipertext)
+> HAQA
+XASGN
+QATIO
+
+contoh diatas adalah hasil enkripsi dari algoritma yang menggunakan pergeseran huruf, dengan pergeseran huruf 7 huruf. Dari urutan abjad yang benar seperti dibawah :
+
+``` A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ```
+
+menjadi urutan seperti dibawah ini. Karena pergeseran 7 huruf dari A sampai G.
+
+``` G H I J K L M N O P Q R S T U V W X Y Z A B C D E F ```
+
+dari A menjadi G, B menjadi H, C menjadi I, D menjadi J dan seterus nya.
