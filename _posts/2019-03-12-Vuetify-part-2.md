@@ -27,6 +27,10 @@ Sekarang mari kita mulai belajar component vuetify.
 1. silahkan kalian hapus terlebih dulu pada bagain app.vue menjadi seperti ini.
 ![DeepinScreenshot_select-area_20190312170737.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312170737.png)
 
+> Keterangan  
+1  ```html<v-content></v-content>``` tempat dimana file pada views akan ditampilkan. bisa dibilang tempat menampilkan konten yang telah dibuat pada folder views.
+
+
 2. delete file HelloWorld.vue pada folder components.
 3. masuk folder views, pada file home sesuaikan seperti dibawah ini
 
