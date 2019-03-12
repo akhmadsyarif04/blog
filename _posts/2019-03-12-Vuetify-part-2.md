@@ -53,3 +53,4 @@ tunggu hingga berhasil dan mengeluarkan App running at.
 ![DeepinScreenshot_select-area_20190312172602.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312172602.png)
 
 penjelasan : 
+> ``` <p class="red white--text"> ```
