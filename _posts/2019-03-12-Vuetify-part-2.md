@@ -88,3 +88,19 @@ penjelasan :
 ``` <p class="subheading font-weight-bold"> ```
 > subheading = adalah untuk mengatur text juga tapi lebih ke aturan font untuk heading. jadi kita tidak perlu mengatur size font untuk heading. selain subheading juga ada headline.  
 font-weight-bold = untuk ketebalan font.
+
+Dan masih banyak lagi untuk mengatur font, ada untuk besar kecil pada huruf, huruf besar semua, dan ada juga untuk posisi konten text. 
+
+silahkan kalian lihat pada documentasi nya : https://vuetifyjs.com/en/framework/typography#font-sizes
+
+sebelum saya tutup, saya pengen jelasi pada bagian text wrapping.  
+jadi wrapping itu adalah untuk mengatur posisi text dengan element lain nya. misalkan pada contoh documentasi vuetify adalah pada card.  
+jadi disana ada script seperti ini 
+```html
+<div class="text-truncate">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+```
+
+penjelasan :
+> text-truncate = adalah untuk mengatur agar panjang tulisan tidak keluar dari card dan juga panjang text tersebut akan lebih pendek tampilnya. menyesuaikan panjang dari element card.
+
+
