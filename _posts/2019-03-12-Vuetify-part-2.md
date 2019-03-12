@@ -25,4 +25,7 @@ Jelas ya untuk masalah folder pada folder /src yang kita gunakan untuk tampilan 
 Sekarang mari kita mulai belajar component vuetify.
 
 1. silahkan kalian hapus terlebih dulu pada bagain app.vue menjadi seperti ini.
+![DeepinScreenshot_select-area_20190312170737.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312170737.png)
+
+2. delete file HelloWorld.vue pada folder component
 
