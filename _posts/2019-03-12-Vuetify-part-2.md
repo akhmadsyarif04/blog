@@ -81,5 +81,6 @@ jika pada text maka text--darken-4.
 
 penjelasan :
 ``` <h1 class="display-4"> ```
-> 
+> display-4 = untuk memperbesar text atau font beda dengan h1 h2 dll.  
+misalkan aja pada display-1 dengan h1 pada header Homepage. bisa dilihat bahawa display-1 lebih besar dibanding h1
 
