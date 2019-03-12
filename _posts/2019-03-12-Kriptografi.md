@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      Apa Itu Kriptografi
+layout: post
+title: Apa Itu Kriptografi
 categories: kriptografi
 tags:
- - kriptografi
+  - kriptografi
 published: true
 ---
 ## Kriptografi
@@ -42,3 +42,5 @@ menjadi urutan seperti dibawah ini. Karena pergeseran 7 huruf dari A sampai G.
 ``` G H I J K L M N O P Q R S T U V W X Y Z A B C D E F ```
 
 dari A menjadi G, B menjadi H, C menjadi I, D menjadi J dan seterus nya.
+
+Itu adalah salah satu contoh sederana dari teknik kriptografi. Masih banyak lagi teknik kriptografi yang bisa digunakan. Semoga bermanfaat dan jika ada salah dalam tulisan ini mohon komen dan give me suggestion.
