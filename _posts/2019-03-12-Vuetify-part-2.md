@@ -29,6 +29,7 @@ Sekarang mari kita mulai belajar component vuetify.
 
 > Keterangan  
 1  ```html<v-content></v-content>``` tempat dimana file pada views akan ditampilkan. bisa dibilang tempat menampilkan konten yang telah dibuat pada folder views.
+2 ```html<router-view></router-view>``` untuk menggunakan file router seperti yang dijelaskan diatas.
 
 
 2. delete file HelloWorld.vue pada folder components.
