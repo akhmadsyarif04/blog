@@ -86,5 +86,3 @@ misalkan aja pada display-1 dengan h1 pada header Homepage. bisa dilihat bahawa 
 
 penjelasan : 
 ``` <p class="subheading font-weight-bold"> ```
-
-
