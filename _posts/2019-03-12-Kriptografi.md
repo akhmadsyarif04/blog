@@ -12,4 +12,4 @@ Dalam kriptografi klasik, teknik dasar yang digunakan adalah enkripsi simetris y
 
 ![](http://ondigitalforensics.weebly.com/uploads/1/5/0/2/15025262/6788419_1_orig.jpg)
 
-naskah asli disebut juga dengan *plaintext*, naskah acak disebut juga *ciphertext*
+naskah asli disebut juga dengan *plaintext*, naskah acak disebut juga *ciphertext*.
