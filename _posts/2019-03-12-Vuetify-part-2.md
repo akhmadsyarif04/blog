@@ -69,3 +69,8 @@ theme: {
   }
 ```
 maka seluruh script pada file vuetify.js seperti gambar ini :
+![DeepinScreenshot_select-area_20190312194523.png]((https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312194523.png)
+
+penjelasan :
+``` <p class="pink lighten-4 red--text"> ```
+
