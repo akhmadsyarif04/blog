@@ -86,4 +86,5 @@ misalkan aja pada display-1 dengan h1 pada header Homepage. bisa dilihat bahawa 
 
 penjelasan : 
 ``` <p class="subheading font-weight-bold"> ```
-> subheading = adalah untuk mengatur text juga tapi lebih ke aturan font untuk heading. jadi kita tidak perlu mengatur size font untuk heading. selain subheading juga ada headline
+> subheading = adalah untuk mengatur text juga tapi lebih ke aturan font untuk heading. jadi kita tidak perlu mengatur size font untuk heading. selain subheading juga ada headline.  
+font-weight-bold = untuk ketebalan font.
