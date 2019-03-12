@@ -18,5 +18,6 @@ jadi pada file app.vue itu adalah route atau jembatan bagi folder component dan 
 
 - Folder component itu berisi file component yang mau kita letahkan pada tampilan tamplate. misalnya : header, footer, navigasi headbar dan lain-lain.  
 - Folder views adalah berisi file tamplate sesuai dengan nama konten. misal konten pada HOME, BIODATA, ARTIKEL dan lain-lain.  
-- Folder plugin adalah berisi plugin yang kita install. seperti pada part 1 kita menginstall vuetify pada project kita (vue.js kita) maka disitu akan muncul vuetify
+- Folder plugin adalah berisi plugin yang kita install. seperti pada part 1 kita menginstall vuetify pada project kita (vue.js kita) maka disitu akan muncul vuetify.
+- Folder asset adalah berisi aset-aset berharga kita yang diupload, misal nya gambar dan video.
 
