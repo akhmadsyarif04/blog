@@ -73,4 +73,4 @@ maka seluruh script pada file vuetify.js seperti gambar ini :
 
 penjelasan :
 ``` <p class="pink lighten-4 red--text"> ```
-
+> lighten-4 = adalah agar contrass cahaya terang pada background. lebih besar maka lebih terang, lebih kecil maka akan gelap.
