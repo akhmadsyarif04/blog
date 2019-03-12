@@ -28,5 +28,5 @@ Sekarang mari kita mulai belajar component vuetify.
 ![DeepinScreenshot_select-area_20190312170737.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312170737.png)
 
 2. delete file HelloWorld.vue pada folder components.
-3. masuk folder views
+3. masuk folder views, pada file home
 
