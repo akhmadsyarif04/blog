@@ -29,8 +29,8 @@ KUNCI
 
 maka kalo di dekripsi akan menjadi :
 data acak (chipertext)
-> HAQA
-XASGN
+> HAQA  
+XASGN  
 QATIO
 
 contoh diatas adalah hasil enkripsi dari algoritma yang menggunakan pergeseran huruf, dengan pergeseran huruf 7 huruf. Dari urutan abjad yang benar seperti dibawah :
