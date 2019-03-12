@@ -54,5 +54,5 @@ tunggu hingga berhasil dan mengeluarkan App running at.
 
 penjelasan : 
 ``` <p class="red white--text"> ``` 
-red = adalah untuk background dari text  
+> red = adalah untuk background dari text  
 white--text = untuk pewarnaan pada text
