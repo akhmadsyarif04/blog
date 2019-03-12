@@ -36,3 +36,11 @@ Sekarang mari kita mulai belajar component vuetify.
 
 2. delete file HelloWorld.vue pada folder components.
 3. masuk folder views, pada file home sesuaikan seperti dibawah ini
+![DeepinScreenshot_select-area_20190312172358.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312172358.png)
+
+4. lalu kita jalan kan dengan perintah 
+```html
+npm run serve
+```
+tunggu hingga berhasil dan mengeluarkan App running at. 
+4. Hasil nya akan seperti ini kalau kita jalan kan
