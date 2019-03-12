@@ -52,7 +52,20 @@ tunggu hingga berhasil dan mengeluarkan App running at.
 5. Hasil nya akan seperti ini dibrowser.
 ![DeepinScreenshot_select-area_20190312172602.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312172602.png)
 
-penjelasan : 
+penjelasan :   
 ``` <p class="red white--text"> ``` 
 > red = adalah untuk background dari text  
 white--text = untuk pewarnaan pada text
+
+untuk penamaan color bisa kalian rubah default dari vuetify pada folder plugins -> file vuetify.js tambahkan 
+script seperti dibawah ini
+
+```javascript
+theme: {
+    primary: '#9652ff',
+    success: '#3cd1c2',
+    info: '#ffaa2c',
+    error: '#f83e70'
+  }
+```
+maka seluruh script pada file vuetify.js seperti gambar ini :
