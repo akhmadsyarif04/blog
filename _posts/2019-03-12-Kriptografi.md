@@ -43,4 +43,6 @@ menjadi urutan seperti dibawah ini. Karena pergeseran 7 huruf dari A sampai G.
 
 dari A menjadi G, B menjadi H, C menjadi I, D menjadi J dan seterus nya.
 
+Jika dekripsi adalah kebalikan diatas. dari chipertext ke plaintext.
+
 Itu adalah salah satu contoh sederana dari teknik kriptografi. Masih banyak lagi teknik kriptografi yang bisa digunakan. Semoga bermanfaat dan jika ada salah dalam tulisan ini mohon komen dan give me suggestion.
