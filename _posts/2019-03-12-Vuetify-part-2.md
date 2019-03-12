@@ -101,6 +101,8 @@ jadi disana ada script seperti ini
 ```
 
 penjelasan :
-> text-truncate = adalah untuk mengatur agar panjang tulisan tidak keluar dari card dan juga panjang text tersebut akan lebih pendek tampilnya. menyesuaikan panjang dari element card.
+> text-truncate = adalah untuk mengatur agar panjang tulisan tidak keluar dari card dan juga panjang text tersebut akan lebih pendek tampilnya. menyesuaikan panjang dari element card.  
+jika menggunakan text-no-wrap maka text akan memanjang. arti nya text tersebut tidak diwrapping.
+
 
 
