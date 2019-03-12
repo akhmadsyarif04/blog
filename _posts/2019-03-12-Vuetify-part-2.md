@@ -13,7 +13,7 @@ didalam folder project. Disana ada file dengan nama app.vue. lihat gambar dibawa
 
 ![DeepinScreenshot_select-area_20190312164123.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312164123.png)
 
-jadi pada file app.vue itu adalah root atau file utama untuk menampilkan tamplate ke halaman browser.
+jadi pada file app.vue itu adalah root atau file utama untuk menampilkan tamplate ke halaman browser. artinya juga bisa dibilang disinilah tamplate dari vuetify dirender menjadi html.
 
 - Folder component itu berisi file component yang mau kita letahkan pada tampilan tamplate. misalnya : header, footer, navigasi headbar dan lain-lain.  
 - Folder views adalah berisi file tamplate sesuai dengan nama konten. misal konten pada HOME, BIODATA, ARTIKEL dan lain-lain.  
