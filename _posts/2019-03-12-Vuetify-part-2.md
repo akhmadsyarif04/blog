@@ -43,4 +43,5 @@ Sekarang mari kita mulai belajar component vuetify.
 npm run serve
 ```
 tunggu hingga berhasil dan mengeluarkan App running at. 
-4. Hasil nya akan seperti ini kalau kita jalan kan
+
+5. Hasil nya akan seperti ini kalau kita jalan kan.
