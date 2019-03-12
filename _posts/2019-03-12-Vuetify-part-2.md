@@ -44,4 +44,4 @@ npm run serve
 ```
 tunggu hingga berhasil dan mengeluarkan App running at. 
 
-5. Hasil nya akan seperti ini kalau kita jalan kan.
+5. Hasil nya akan seperti ini dibrowser.
