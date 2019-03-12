@@ -69,7 +69,8 @@ theme: {
   }
 ```
 maka seluruh script pada file vuetify.js seperti gambar ini :
-![DeepinScreenshot_select-area_20190312194523.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312194523.png)
+![DeepinScreenshot_select-area_20190312194523.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312194523.png)
+
 
 untuk daftar color pada vuetify bisa kalian lihat disini : [https://vuetifyjs.com/en/framework/colors#colors](https://vuetifyjs.com/en/framework/colors#colors)
 
