@@ -102,8 +102,10 @@ jadi disana ada script seperti ini
 
 penjelasan :
 > text-truncate = adalah untuk mengatur agar panjang tulisan tidak keluar dari card dan juga panjang text tersebut akan lebih pendek tampilnya. menyesuaikan panjang dari element card.  
-jika menggunakan text-no-wrap maka text akan memanjang. arti nya text tersebut tidak diwrapping.  
+jika menggunakan text-no-wrap maka text akan memanjang dan keluar dari element card. arti nya text tersebut tidak diwrapping.  
 unik nya pada vuetify, vuetify sudah mengatur sedemikian rupa. jadi ketika kita kosong kan class tersebut maka text akan tampil panjang tapi kebawah tidak keluar dari element card tersebut.
 
+selesai semoga bermanfaat dan apabila ada kesalahan atau bingung silahkan comment dibawah. next part 3 vuetify selanjut nya.  
+Terimakasih.
 
 
