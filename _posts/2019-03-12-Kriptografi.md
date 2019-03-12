@@ -12,4 +12,15 @@ Dalam kriptografi klasik, teknik dasar yang digunakan adalah enkripsi simetris y
 
 ![](http://ondigitalforensics.weebly.com/uploads/1/5/0/2/15025262/6788419_1_orig.jpg)
 
-naskah asli disebut juga dengan *plaintext*, naskah acak disebut juga *ciphertext*. Semakin sulit dibaca maka hasil enkripsi semakin bagus. Maksud dari sulit dibaca dalam dunia kriptografi adalah membutuhkan waktu yang lama untuk mengetahui algoritma yang digunakan atau membutuhkan waktu yang lama dalam mendapat data asli tersebut maka akan semankin bagus nilai dari kriptografi tersebut.
+Data asli disebut juga dengan *plaintext*, data acak disebut juga *ciphertext*. Semakin sulit dibaca maka hasil enkripsi semakin bagus. Maksud dari sulit dibaca dalam dunia kriptografi adalah membutuhkan waktu yang lama untuk mengetahui algoritma yang digunakan atau membutuhkan waktu yang lama dalam mendapat data asli tersebut maka akan semankin bagus nilai dari kriptografi tersebut.
+
+Awalnya kriptografi digunakan untuk merahasiakan data teks dan sekarang kriptografi digunakan untuk data apa saja yang berbentuk digital.
+
+contoh :
+data asli (Plaintext)
+> BUKU  
+RUMAH  
+KUNCI
+
+maka kalo di dekripsi akan menjadi :
+data acak (chipertext)
