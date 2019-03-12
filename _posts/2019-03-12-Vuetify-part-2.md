@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      Vuetify part 2 Memulai Koding Vuetify dan Menggunakan Component Text dan Color 
+categories: vuetify
+tags:
+ - vuetify
 published: true
 ---
 ## Memulai ngoding dengan component Vuetify.
@@ -11,7 +16,7 @@ Dimana letak tamplate buat tampilan website nya? jadi didalam vue.js ada pada fo
 ```
 didalam folder project. Disana ada file dengan nama app.vue. lihat gambar dibawah
 
-![DeepinScreenshot_select-area_20190312164123.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312164123.png)
+![DeepinScreenshot_select-area_20190312164123.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312164123.png)
 
 jadi pada file app.vue itu adalah root atau file utama untuk menampilkan tamplate ke halaman browser. artinya juga bisa dibilang disinilah tamplate dari vuetify dirender menjadi html.
 
@@ -25,7 +30,7 @@ Jelas ya untuk masalah folder pada folder /src yang kita gunakan untuk tampilan 
 Sekarang mari kita mulai belajar component vuetify.
 
 1. silahkan kalian hapus terlebih dulu pada bagain app.vue menjadi seperti ini.
-![DeepinScreenshot_select-area_20190312170737.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312170737.png)
+![DeepinScreenshot_select-area_20190312170737.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312170737.png)
 
 > Keterangan  
 1  ```html<v-content></v-content>``` tempat dimana file pada views akan ditampilkan. bisa dibilang tempat menampilkan konten yang telah dibuat pada folder views.
@@ -36,7 +41,7 @@ Sekarang mari kita mulai belajar component vuetify.
 
 2. delete file HelloWorld.vue pada folder components.
 3. masuk folder views, pada file home sesuaikan seperti dibawah ini
-![DeepinScreenshot_select-area_20190312172358.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312172358.png)
+![DeepinScreenshot_select-area_20190312172358.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312172358.png)
 
 4. lalu kita jalan kan dengan perintah 
 ```html
@@ -45,4 +50,4 @@ npm run serve
 tunggu hingga berhasil dan mengeluarkan App running at. 
 
 5. Hasil nya akan seperti ini dibrowser.
-![DeepinScreenshot_select-area_20190312172602.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190312172602.png)
+![DeepinScreenshot_select-area_20190312172602.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312172602.png)
