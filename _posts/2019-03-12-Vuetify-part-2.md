@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      Vuetify part 2 Memulai Koding Vuetify dan Menggunakan Component Text dan Color 
+layout: post
+title: Vuetify part 2 Memulai Koding Vuetify dan Menggunakan Component Text dan Color
 categories: vuetify
 tags:
- - vuetify
+  - vuetify
 published: true
 ---
 ## Memulai ngoding dengan component Vuetify.
@@ -33,7 +33,7 @@ Sekarang mari kita mulai belajar component vuetify.
 ![DeepinScreenshot_select-area_20190312170737.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190312170737.png)
 
 > Keterangan  
-1  ```html<v-content></v-content>``` tempat dimana file pada views akan ditampilkan. bisa dibilang tempat menampilkan konten yang telah dibuat pada folder views.
+1  ```html<v-content></v-content>``` tempat dimana file pada views akan ditampilkan. bisa dibilang tempat menampilkan konten yang telah dibuat pada folder views.  
 2 ```html<router-view></router-view>``` untuk menggunakan file router seperti yang dijelaskan diatas.
 
 *pada bagian script dibahas 1 per 1 ketika kita masuk materi menggunakan script tersebut nanti atau pada artikel/tutorial pada vue.js nanti yang akan saya buat atau silahkan cari digoogle. :D
