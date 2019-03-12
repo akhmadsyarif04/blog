@@ -21,6 +21,8 @@ jadi pada file app.vue itu adalah root atau file utama untuk menampilkan tamplat
 - Folder asset adalah berisi aset-aset berharga kita yang diupload, misal nya gambar dan video.
 - File Router adalah sebagai tempat yang menentukan file tamplate mana yang akan dijalankan pada folder views. misalnya kita mau ke konten BIODATA tidak mungkin kita tampilkan semua file pada folder views. Jadi didalam file router ketika kita mau ke konten BIODATA maka file router akan merender file BIODATA tergantung permintaan pada bagian path, bagian name untuk penamaan, pada component adalah file akan dipanggil jika path sesuai dengan yang diminta.
 
-Jelas ya untuk masalah folder pada folder /src yang kita gunakan untuk tampilan website kita.
-Sekarang mari kita 
+Jelas ya untuk masalah folder pada folder /src yang kita gunakan untuk tampilan website kita. 
+Sekarang mari kita mulai belajar component vuetify.
+
+1. silahkan kalian hapus terlebih dulu pada bagain app.vue menjadi seperti ini.
 
