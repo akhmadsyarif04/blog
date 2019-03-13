@@ -1,4 +1,9 @@
 ---
+layout: post
+title: Vuetify part 3 Menggunakan Components Button Dan Icons
+categories: vuetify
+tags:
+  - vuetify
 published: true
 ---
 ## Menggunakan Components Button Dan Icons
