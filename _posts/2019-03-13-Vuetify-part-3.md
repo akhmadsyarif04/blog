@@ -22,6 +22,10 @@ Lalu gunakan script dibawah ini :
 maka tampilan file Home.vue seperti ini :
 ![DeepinScreenshot_select-area_20190313224423.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190313224423.png)
 
+Dan hasil dibrowser ketika dijalankan ``` npm run serve ``` seperti gambar dibawah ini :
+
+![DeepinScreenshot_select-area_20190314005422.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314005422.png)
+
 Penjelasan :  
 ``` <v-btn class="pink white--text">Click Me</v-btn> ```
 >  `` pink `` = adalah untuk color background.   
@@ -36,3 +40,7 @@ Penjelasan :
 ``` <v-btn flat color="pink">Click Me</v-btn> ```
 > ``` flat ``` = menghapus background color pada button.
 
+Selanjutnya tambahkan lagi script dibawah ini :
+```html
+
+```
