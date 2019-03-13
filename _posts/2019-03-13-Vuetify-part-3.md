@@ -29,5 +29,6 @@ Penjelasan :
 
 Penjelasan :  
 ``` <v-btn depressed color="pink">Click Me</v-btn> ```
-> ``` depressed ``` = 
+> ``` depressed ``` =  menghapus shadow (bayangan) pada button.  
+``` color="pink" ``` = untuk color background.
 
