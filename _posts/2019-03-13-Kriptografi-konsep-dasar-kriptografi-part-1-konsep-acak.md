@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      Konsep Dasar Kriptografi part 1 Konsep Acak
+categories: kriptografi
+tags:
+ - kriptografi
 published: true
 ---
 # Konsep Dasar Kriptografi part 1
