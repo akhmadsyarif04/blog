@@ -61,3 +61,6 @@ Selanjutnya tambahkan lagi script dibawah ini :
           <v-icon>favorite</v-icon> <!--  icon dari material design icon -->
         </v-btn>
 ```
+
+maka tampilan file Home.vue seperti ini :
+![DeepinScreenshot_select-area_20190314005736.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314005736.png)
