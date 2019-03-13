@@ -32,3 +32,7 @@ Penjelasan :
 > ``` depressed ``` =  menghapus shadow (bayangan) pada button.  
 ``` color="pink" ``` = untuk color background.
 
+Penjelasan :
+``` <v-btn flat color="pink">Click Me</v-btn> ```
+> ``` flat ``` = menghapus background color pada button.
+
