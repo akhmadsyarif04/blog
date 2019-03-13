@@ -25,3 +25,6 @@ perkiraan linear untuk algoritma enkripsi.
 enkripsi dari analisa efek perbedaan naskah asli terhadap perbedaan naskah acak.
   
   Meskipun tidak sebenarnya acak, sesuatu yang *pseudo-random* berguna dan digunakan dalam kriptografi, tetapi harus dikombinasikan dengan sesuatu yang benar-benar acak. Sebagai contoh, *pseudo-random number generator* dikombinasikan dengan sumber *entropi* (**ukuran jumlah informasi didalam pesan**) yang benar acak sebagai *seed* (**kunci enkripsi**), untuk mendapatkan sesuatu yang praktis bersifat random number generator.
+
+
+Konsep dasar yang lain coming soon.
