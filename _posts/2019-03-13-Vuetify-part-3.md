@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Menggunakan Components Button Dan Icons
 
