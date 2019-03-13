@@ -27,3 +27,7 @@ Penjelasan :
 >  `` pink `` = adalah untuk color background.   
 `` white--text `` = untuk color font.
 
+Penjelasan :  
+``` <v-btn depressed color="pink">Click Me</v-btn> ```
+> ``` depressed ``` = 
+
