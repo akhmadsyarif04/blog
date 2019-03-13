@@ -42,5 +42,22 @@ Penjelasan :
 
 Selanjutnya tambahkan lagi script dibawah ini :
 ```html
+		<v-btn drepressed class="pink white--text">
+          <v-icon left>email</v-icon> <!-- icon dari material design icon -->
+          <span>email me</span>
+        </v-btn>
 
+        <v-btn drepressed small class="pink white--text">
+          <v-icon left small>email</v-icon> <!-- icon dari material design icon -->
+          <span>email me</span>
+        </v-btn>
+
+        <v-btn drepressed large class="pink white--text">
+          <span>email me</span>
+          <v-icon right large>email</v-icon> <!-- icon dari material design icon -->
+        </v-btn>
+
+        <v-btn fab drepressed small dark color="purple">
+          <v-icon>favorite</v-icon> <!--  icon dari material design icon -->
+        </v-btn>
 ```
