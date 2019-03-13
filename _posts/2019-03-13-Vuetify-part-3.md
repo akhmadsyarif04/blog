@@ -20,7 +20,7 @@ Lalu gunakan script dibawah ini :
 ```
 
 maka tampilan file Home.vue seperti ini :
-![DeepinScreenshot_select-area_20190313224423.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190313224423.png)
+![DeepinScreenshot_select-area_20190313224423.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190313224423.png)
 
 > Keterangan :
 1 `` pink white--text `` = kita sudah tau sendiri `` pink `` adalah untuk color background, `` white--text `` untuk color font.
