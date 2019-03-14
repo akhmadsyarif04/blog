@@ -86,3 +86,10 @@ Penjelasan :
 
 > prop adalah salah satu cara untuk berkomunikasi antar compunent, tetapi pada prop hanya dengan mengirim nilai saja tidak menerima, artinya nilai small yang sudah ditentukan vuetify dikirim untuk mengubah nilai size atribut tersebut. Karena pada vuetify prop small akan menjadi nama class ketika dirender yang mana nanti nilai class tersebut akan dibaca browser. silahkan check dengan klik kanan -> inspect element.
 
+Pennjelasan : 
+```
+        <v-btn drepressed large class="pink white--text">
+          <span>email me</span>
+          <v-icon right large>email</v-icon> <!-- icon dari material design icon -->
+        </v-btn>
+```
