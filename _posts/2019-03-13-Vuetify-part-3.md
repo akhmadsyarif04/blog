@@ -123,7 +123,9 @@ Penjelasan :
 ``:item`` adalah shorthand ``v-bind:item`` yang mana digunakan untuk directive untuk mengambil sebuah component. 
 ``label`` hanya sebuah label saja.  
 ``v-flex`` adalah untuk mengatur grid atau kolom pada suatu element.  
-``xs`` adalah extra small untuk bagian display antara (kurang dari) < 600px
+``xs`` adalah extra small untuk bagian display antara (kurang dari) < 600px.  
+``sm`` adalah small medium untuk bagian display antara 600px > < 960px.  
+xs dan sm biasa nya digunakan untuk reponsive template. menyesuaikan dari ukuran layar.
 
 Lalu ketikan script js ini pada script  
 ```
