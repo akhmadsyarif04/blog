@@ -42,7 +42,7 @@ Penjelasan :
 
 Selanjutnya tambahkan lagi script dibawah ini :
 ```html
-		<v-btn drepressed class="pink white--text">
+        <v-btn drepressed class="pink white--text">
           <v-icon left>email</v-icon> <!-- icon dari material design icon -->
           <span>email me</span>
         </v-btn>
@@ -66,8 +66,8 @@ maka tampilan file Home.vue seperti ini :
 ![DeepinScreenshot_select-area_20190314005736.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314005736.png)
 
 Penjelasan :
-``` 
-		<v-btn drepressed class="pink white--text">
+```
+        <v-btn drepressed class="pink white--text">
           <v-icon left>email</v-icon> <!-- icon dari material design icon -->
           <span>email me</span>
         </v-btn>
@@ -93,3 +93,4 @@ Pennjelasan :
           <v-icon right large>email</v-icon> <!-- icon dari material design icon -->
         </v-btn>
 ```
+> 
