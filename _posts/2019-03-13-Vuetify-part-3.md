@@ -64,3 +64,12 @@ Selanjutnya tambahkan lagi script dibawah ini :
 
 maka tampilan file Home.vue seperti ini :
 ![DeepinScreenshot_select-area_20190314005736.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314005736.png)
+
+Penjelasan :
+``` 
+		<v-btn drepressed class="pink white--text">
+          <v-icon left>email</v-icon> <!-- icon dari material design icon -->
+          <span>email me</span>
+        </v-btn>
+```
+> ``` left pada v-icon = agar icon berada pada sebelah kiri
