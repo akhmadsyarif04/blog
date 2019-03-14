@@ -106,11 +106,20 @@ Penjelasan :
 `` drepressed ``,``small``,``color`` sudah dibahas diatas.  
 `` dark `` untuk menon aktifkan penggunakan color gelap/hitam. pada awal nya jika tidak digunakan dark icon akan menjadi hitam. ketika di gunakan dark akan menjadi putih. jadi prop dark ini default nya adalah *false* ketika digunakan.
 
-Sekarang kita coba menu dropdown : 
+Sekarang kita coba menu dropdown :  
+ketikan script dibawah pada template
 ```
   <v-layout row wrap>
     <v-flex xs12 sm2>
       <v-overflow-btn :items="dropdown_font" label="Overflow Btn"></v-overflow-btn>
     </v-flex>
   </v-layout>
+```
+ketikan script js ini pada script  
+```
+export default {
+  data: () => ({
+    dropdown_font: ['Arial', 'Calibri', 'Courier', 'Verdana'],
+  })
+}
 ```
