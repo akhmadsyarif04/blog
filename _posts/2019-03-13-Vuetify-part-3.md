@@ -115,7 +115,10 @@ ketikan script dibawah pada template
     </v-flex>
   </v-layout>
 ```
-ketikan script js ini pada script  
+Jadi seperti ini ya  
+![DeepinScreenshot_select-area_20190314105214.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314105214.png)
+
+Lalu ketikan script js ini pada script  
 ```
 export default {
   data: () => ({
@@ -123,3 +126,5 @@ export default {
   })
 }
 ```
+maka seperti ini
+![DeepinScreenshot_select-area_20190314105310.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314105310.png)
