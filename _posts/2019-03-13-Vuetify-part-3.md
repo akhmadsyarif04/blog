@@ -127,6 +127,7 @@ Penjelasan :
 ``sm`` adalah small medium untuk bagian display antara 600px > < 960px.  
 xs dan sm biasa nya digunakan untuk reponsive template. menyesuaikan dari ukuran layar.  
 ``v-layout`` biasa nya pasti berada diantar v-container dan v-flex untuk memisahkan antar 2 element tersebut.  
+untuk ``wrap`` dan ``row`` saya masih bener-bener belum tau fungsi dari kedua itu. jika ada yang lebih tau silahka komen dibawah.
 
 Lalu ketikan script js ini pada script  
 ```
