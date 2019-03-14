@@ -125,7 +125,8 @@ Penjelasan :
 ``v-flex`` adalah untuk mengatur grid atau kolom pada suatu element.  
 ``xs`` adalah extra small untuk bagian display antara (kurang dari) < 600px.  
 ``sm`` adalah small medium untuk bagian display antara 600px > < 960px.  
-xs dan sm biasa nya digunakan untuk reponsive template. menyesuaikan dari ukuran layar.
+xs dan sm biasa nya digunakan untuk reponsive template. menyesuaikan dari ukuran layar.  
+``v-layout`` biasa nya pasti berada diantar v-container dan v-flex untuk memisahkan antar 2 element tersebut.  
 
 Lalu ketikan script js ini pada script  
 ```
