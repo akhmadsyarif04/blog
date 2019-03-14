@@ -142,3 +142,6 @@ maka seperti ini
 
 Penjelasan :
 > ``data`` disitu adalah tempat untuk menuliskan variabel dan nilai. Dengan nama variabel nya adalah ``dropdown_font`` dan nilai ``['Arial', 'Calibri', 'Courier', 'Verdana']`` berbentuk array. Bisa juga berupa boolean, integer, string dll. variabel dropdown_font ini yang akan dipanggil nanti di item dropdown seperti yang dijelaskan diatas.
+
+Gambar hasil component dropdown seperti ini :
+
