@@ -141,4 +141,4 @@ maka seperti ini
 ![DeepinScreenshot_select-area_20190314105310.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314105310.png)
 
 Penjelasan :
-> ``data`` disitu adalah tempat menuliskan variabel nilai. Dengan nama variabel nya adalah ``dropdown_font`` den
+> ``data`` disitu adalah tempat untuk menuliskan variabel dan nilai. Dengan nama variabel nya adalah ``dropdown_font`` den
