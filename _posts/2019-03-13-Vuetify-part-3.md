@@ -144,4 +144,7 @@ Penjelasan :
 > ``data`` disitu adalah tempat untuk menuliskan variabel dan nilai. Dengan nama variabel nya adalah ``dropdown_font`` dan nilai ``['Arial', 'Calibri', 'Courier', 'Verdana']`` berbentuk array. Bisa juga berupa boolean, integer, string dll. variabel dropdown_font ini yang akan dipanggil nanti di item dropdown seperti yang dijelaskan diatas.
 
 Gambar hasil component dropdown seperti ini :
+![DeepinScreenshot_select-area_20190314114532.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314114532.png)
+![DeepinScreenshot_select-area_20190314114556.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314114556.png)
 
+okey, untuk lebih lanjut. silahkan kalian baca di documentasi web resmi mereka pada bagian button dan icon. disini [https://vuetifyjs.com/en/components/buttons#button](https://vuetifyjs.com/en/components/buttons#button).
