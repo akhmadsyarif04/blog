@@ -141,4 +141,4 @@ maka seperti ini
 ![DeepinScreenshot_select-area_20190314105310.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314105310.png)
 
 Penjelasan :
-> ``data`` disitu adalah tempat untuk menuliskan variabel dan nilai. Dengan nama variabel nya adalah ``dropdown_font`` den
+> ``data`` disitu adalah tempat untuk menuliskan variabel dan nilai. Dengan nama variabel nya adalah ``dropdown_font`` dan nilai ``['Arial', 'Calibri', 'Courier', 'Verdana']`` berbentuk array. Bisa juga berupa boolean, integer, string dll. variabel dropdown_font ini yang akan dipanggil nanti di item dropdown seperti yang dijelaskan diatas.
