@@ -82,4 +82,4 @@ Penjelasan :
           <span>email me</span>
         </v-btn>
 ```
-> 
+> `` small `` pada `` v-icon `` dan `` v-btn `` = jika pada ``btn`` button akan menjadi kecil. Jika pada ``v-icon`` maka icon yang mengecil. jadi tegantung dimana meletakkan prop small tersebut.
