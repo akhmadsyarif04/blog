@@ -75,4 +75,11 @@ Penjelasan :
 > `` v-icon `` = adalah untuk memanggil icon dari material desaign icon yang sudah include bersama vuetify.     
 `` left `` pada `` v-icon `` = agar icon berada pada sebelah kiri dengan ada nya spasi atau jarak dengan teks. jika kita coba dengan menghapus left maka icon dan teks akan mepet berdekatan.  
 
-
+Penjelasan :
+```
+		<v-btn drepressed small class="pink white--text">
+          <v-icon left small>email</v-icon> <!-- icon dari material design icon -->
+          <span>email me</span>
+        </v-btn>
+```
+>
