@@ -119,8 +119,11 @@ Jadi seperti ini ya
 ![DeepinScreenshot_select-area_20190314105214.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314105214.png)
 
 Penjelasan : 
-> ``:items="dropdown_font"`` adalah untuk menampilkan item-item dropdown yang nanti akan kita buat dibagian javascript data.
-``:item`` adalah shorthand ``v-bind:item`` yang mana digunakan untuk directive untuk mengambil sebuah component.
+> ``:items="dropdown_font"`` adalah untuk menampilkan item-item dropdown yang nanti akan kita buat dibagian javascript data.  
+``:item`` adalah shorthand ``v-bind:item`` yang mana digunakan untuk directive untuk mengambil sebuah component. 
+``label`` hanya sebuah label saja.  
+``v-flex`` adalah untuk mengatur grid atau kolom pada suatu element.  
+``xs`` adalah extra small untuk bagian display antara (kurang dari) < 600px
 
 Lalu ketikan script js ini pada script  
 ```
