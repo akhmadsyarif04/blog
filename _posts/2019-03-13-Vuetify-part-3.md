@@ -72,4 +72,5 @@ Penjelasan :
           <span>email me</span>
         </v-btn>
 ```
-> ``` left pada v-icon = agar icon berada pada sebelah kiri
+> `` v-icon `` = adalah untuk memanggil icon dari material desaign icon yang sudah include bersama vuetify.     
+`` left pada v-icon = agar icon berada pada sebelah kiri dengan ada nya spasi atau jarak dengan teks. jika kita coba dengan menghapus left maka icon dan teks akan mepet berdekatan. 
