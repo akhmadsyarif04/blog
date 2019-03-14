@@ -95,3 +95,11 @@ Pennjelasan :
 ```
 > `` large `` adalah untuk memperbesar, kebalikan dari small tadi.
 `` right `` pada `` v-icon `` agar icon berada pada sebelah kenan dengan ada nya spasi atau jarak dengan teks. jika kita coba dengan menghapus right maka icon dan teks akan mepet berdekatan. 
+
+Penjelasan :
+```
+        <v-btn fab drepressed small dark color="purple">
+          <v-icon>favorite</v-icon> <!--  icon dari material design icon -->
+        </v-btn>
+```
+> `` fab `` untuk membuat button menjadi lingkaran
