@@ -24,7 +24,7 @@ maka tampilan file Home.vue seperti ini :
 
 Dan hasil dibrowser ketika dijalankan ``` npm run serve ``` seperti gambar dibawah ini :
 
-![DeepinScreenshot_select-area_20190314005422.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314005422.png)
+![DeepinScreenshot_select-area_20190314005422.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190314005422.png)
 
 Penjelasan :  
 ``` <v-btn class="pink white--text">Click Me</v-btn> ```
@@ -63,7 +63,7 @@ Selanjutnya tambahkan lagi script dibawah ini :
 ```
 
 maka tampilan file Home.vue seperti ini :
-![DeepinScreenshot_select-area_20190314005736.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314005736.png)
+![DeepinScreenshot_select-area_20190314005736.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190314005736.png)
 
 Penjelasan :
 ```
@@ -116,7 +116,7 @@ ketikan script dibawah pada template
   </v-layout>
 ```
 Jadi seperti ini ya  
-![DeepinScreenshot_select-area_20190314105214.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314105214.png)
+![DeepinScreenshot_select-area_20190314105214.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190314105214.png)
 
 Penjelasan : 
 > ``:items="dropdown_font"`` adalah untuk menampilkan item-item dropdown yang nanti akan kita buat dibagian javascript data.  
@@ -138,13 +138,13 @@ export default {
 }
 ```
 maka seperti ini
-![DeepinScreenshot_select-area_20190314105310.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314105310.png)
+![DeepinScreenshot_select-area_20190314105310.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190314105310.png)
 
 Penjelasan :
 > ``data`` disitu adalah tempat untuk menuliskan variabel dan nilai. Dengan nama variabel nya adalah ``dropdown_font`` dan nilai ``['Arial', 'Calibri', 'Courier', 'Verdana']`` berbentuk array. Bisa juga berupa boolean, integer, string dll. variabel dropdown_font ini yang akan dipanggil nanti di item dropdown seperti yang dijelaskan diatas.
 
 Gambar hasil component dropdown seperti ini :
-![DeepinScreenshot_select-area_20190314114532.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314114532.png)
-![DeepinScreenshot_select-area_20190314114556.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314114556.png)
+![DeepinScreenshot_select-area_20190314114532.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190314114532.png)
+![DeepinScreenshot_select-area_20190314114556.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190314114556.png)
 
 okey, untuk lebih lanjut. silahkan kalian baca di documentasi web resmi mereka pada bagian button dan icon. disini [https://vuetifyjs.com/en/components/buttons#button](https://vuetifyjs.com/en/components/buttons#button).
