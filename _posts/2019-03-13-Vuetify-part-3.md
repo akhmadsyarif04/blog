@@ -83,3 +83,6 @@ Penjelasan :
         </v-btn>
 ```
 > `` small `` pada `` v-icon `` dan `` v-btn `` = jika pada ``btn`` button akan menjadi kecil. Jika pada ``v-icon`` maka icon yang mengecil. jadi tegantung dimana meletakkan prop small tersebut.
+
+> prop adalah salah satu cara untuk berkomunikasi antar compunent, tetapi pada prop hanya dengan mengirim nilai saja tidak menerima, artinya nilai small yang sudah ditentukan vuetify dikirim untuk mengubah nilai size atribut tersebut. Karena pada vuetify prop small akan menjadi nama class ketika dirender yang mana nanti nilai class tersebut akan dibaca browser. silahkan check dengan klik kanan -> inspect element.
+
