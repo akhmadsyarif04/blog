@@ -77,9 +77,9 @@ Penjelasan :
 
 Penjelasan :
 ```
-		<v-btn drepressed small class="pink white--text">
+        <v-btn drepressed small class="pink white--text">
           <v-icon left small>email</v-icon> <!-- icon dari material design icon -->
           <span>email me</span>
         </v-btn>
 ```
->
+> 
