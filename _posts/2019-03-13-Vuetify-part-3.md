@@ -93,7 +93,7 @@ Pennjelasan :
           <v-icon right large>email</v-icon> <!-- icon dari material design icon -->
         </v-btn>
 ```
-> `` large `` adalah untuk memperbesar, kebalikan dari small tadi.
+> `` large `` adalah untuk memperbesar, kebalikan dari small tadi.  
 `` right `` pada `` v-icon `` agar icon berada pada sebelah kenan dengan ada nya spasi atau jarak dengan teks. jika kita coba dengan menghapus right maka icon dan teks akan mepet berdekatan. 
 
 Penjelasan :
@@ -102,4 +102,6 @@ Penjelasan :
           <v-icon>favorite</v-icon> <!--  icon dari material design icon -->
         </v-btn>
 ```
-> `` fab `` untuk membuat button menjadi lingkaran
+> `` fab `` untuk membuat button menjadi lingkaran.  
+`` drepressed ``,``small``,``color`` sudah dibahas diatas.  
+`` dark `` untuk menon aktifkan penggunakan color gelap/hitam. pada awal nya jika tidak digunakan dark icon akan menjadi hitam. ketika di gunakan dark akan menjadi putih. jadi prop dark ini default nya adalah *false* ketika digunakan.
