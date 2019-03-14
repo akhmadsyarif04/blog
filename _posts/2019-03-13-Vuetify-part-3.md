@@ -140,3 +140,5 @@ export default {
 maka seperti ini
 ![DeepinScreenshot_select-area_20190314105310.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190314105310.png)
 
+Penjelasan :
+>
