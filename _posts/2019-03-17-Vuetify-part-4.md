@@ -13,3 +13,5 @@ Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita 
 ``xl`` (_extra large_) yaitu lebarnya ( > 1904px) lebih dari 1904px maka true.
 
 disana juga tercantum type dari setiap ukuran, adan tablet, laptop, dan dekstop.
+
+langsung praktek aja.
