@@ -54,13 +54,19 @@ jika menggunakan ``only`` hanya pada size yang dilalui 1264px sampai 960px yang 
 
 ### Overflow
 Overflow berfungsi jika ada konten didalam elemen yang melebihi atau keluar dari element parent nya atau element yang membungkus konten tersebut. Format penulisan nya adalah :
-```
-     overflow-hidden - sembunyikan overflow pada sumbu x dan y
-     overflow-y-hidden - sembunyikan overflow pada sumbu y
-     overflow-x-hidden - sembunyikan overflow pada sumbu x
-```
+     
+>    
+overflow-hidden - sembunyikan overflow pada sumbu x dan y  
+overflow-y-hidden - sembunyikan overflow pada sumbu y  
+overflow-x-hidden - sembunyikan overflow pada sumbu x  
 
 ### Display
 Display biasa nya berfungsi untuk mengatur posisi setiap element. Format penulisan nya adalah :
-
+>
+     d-inline-flex - mengatur properti display elemen ke inline-flex  
+     d-flex - mengatur properti tampilan elemen menjadi fleksibel  
+     d-inline-block - mengatur properti display elemen ke inline-block  
+     d-block - mengatur properti tampilan elemen untuk diblokir  
+     d-inline - mengatur properti tampilan elemen menjadi inline  
+     d-none - mengatur properti tampilan elemen ke none  
 
