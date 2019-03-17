@@ -1,9 +1,9 @@
 ---
 published: false
 ---
-## Breakpoint dan Visibiliy
+## Breakpoint, Visibilty, Overflow, dan Display
 
-Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita coba bagian breakpoint dan display. silahkan kalian masuk ke website resmi dari vuetifyjs.com [breakpoints](https://vuetifyjs.com/en/framework/breakpoints#breakpoints) dan [Visibility](https://vuetifyjs.com/en/framework/display#visibility). saya akan mencoba menjelaskan pada bagian breakpoin. disana terdapat table Viewport yang mana macam-macam ukuran device. 
+Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita coba bagian breakpoint dan display. silahkan kalian masuk ke website resmi dari vuetifyjs.com [breakpoints](https://vuetifyjs.com/en/framework/breakpoints#breakpoints) dan [Display](https://vuetifyjs.com/en/framework/display). saya akan mencoba menjelaskan pada bagian breakpoin. disana terdapat table Viewport yang mana macam-macam ukuran device. 
 
 
 disana juga tercantum type dari setiap ukuran, adan tablet, laptop, dan dekstop.
@@ -50,3 +50,4 @@ penjelasan :
 > karena kita menggunakan breapoint ``md`` dan visibility ``and-down`` maka dari nilai 1264px kebawah, button dilayar akan menghilang.  
 sebaliknya jika menggunakan visibility ``and-up`` maka dari nilai 1264px kebawah akan tampil.  
 jika menggunakan ``only`` hanya pada size yang dilalui 1264px sampai 960px yang disembunyikan.
+
