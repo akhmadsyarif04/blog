@@ -5,17 +5,20 @@ published: false
 
 Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita coba bagian breakpoint dan display. silahkan kalian masuk ke website resmi dari vuetifyjs.com [breakpoints](https://vuetifyjs.com/en/framework/breakpoints#breakpoints) dan [Visibility](https://vuetifyjs.com/en/framework/display#visibility). saya akan mencoba menjelaskan pada bagian breakpoin. disana terdapat table Viewport yang mana macam-macam ukuran device. 
 
-> 
+
+disana juga tercantum type dari setiap ukuran, adan tablet, laptop, dan dekstop.
+
+langsung praktek aja. 
+jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.  
+
+> bagian breakpoint di isi dengan salah satu dari dibawah ini :  
 ``xs`` (_extra small_) yaitu lebar nya (<600px) kurang dari 600px maka true.  
 ``sm`` (_small_) yaitu lebarnya kurang dari 960px maka true.  
 ``md`` (_medium_) yaitu lebarnya kurang dari 1264px maka true.  
 ``lg`` (_large_) yaitu lebarnya kurang dari 1904px maka true.  
 ``xl`` (_extra large_) yaitu lebarnya ( > 1904px) lebih dari 1904px maka true.
 
-disana juga tercantum type dari setiap ukuran, adan tablet, laptop, dan dekstop.
-
-langsung praktek aja.  
-jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.  
+> bagian condition di isi dengan salah satu dari dibawah ini :
 
 
 1. buka kembali file home.vue kalian, hapus script terdahulu dan ketikan dibawah ini.
