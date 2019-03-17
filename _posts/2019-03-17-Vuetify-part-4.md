@@ -19,7 +19,7 @@ jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.
 ``xl`` (_extra large_) yaitu lebarnya ( > 1904px) lebih dari 1904px maka true.
 
 > bagian condition di isi dengan salah satu dari dibawah ini :  
-``only`` = hanya pada size yang ditentukan
+``only`` = sembunyikan elemen hanya pada xs melalui breakpoints XL
 ``and-down``  
 ``and-up``
 
