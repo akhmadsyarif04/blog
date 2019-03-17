@@ -13,9 +13,9 @@ jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.
 
 > bagian breakpoint di isi dengan salah satu dari dibawah ini :  
 ``xs`` (_extra small_) yaitu lebar nya (<600px) kurang dari 600px maka true.  
-``sm`` (_small_) yaitu lebarnya diantara ( 600px >< 960px) lebih besar dari 600px dan kurang dari 960px maka true.  
-``md`` (_medium_) yaitu lebarnya kurang dari 1264px maka true.  
-``lg`` (_large_) yaitu lebarnya kurang dari 1904px maka true.  
+``sm`` (_small_) yaitu lebarnya ( 600px >< 960px) kurang dari 600px dan kurang dari 960px maka true.  
+``md`` (_medium_) yaitu lebarnya (960px >< 1264px) kurang dari 960px dan kurang dari 1264px maka true.  
+``lg`` (_large_) yaitu lebarnya (1264px >< 1904px) kurang dari 1264px dan kurang dari 1904px maka true.  
 ``xl`` (_extra large_) yaitu lebarnya ( > 1904px) lebih dari 1904px maka true.
 
 > bagian condition di isi dengan salah satu dari dibawah ini :  
