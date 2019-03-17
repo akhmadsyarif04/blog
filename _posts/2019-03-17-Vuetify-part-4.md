@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Breakpoint, Visibilty, Overflow, dan Display
 
@@ -68,5 +68,4 @@ Display biasa nya berfungsi untuk mengatur posisi setiap element. Format penulis
      d-inline-block - mengatur properti display elemen ke inline-block  
      d-block - mengatur properti tampilan elemen untuk diblokir  
      d-inline - mengatur properti tampilan elemen menjadi inline  
-     d-none - mengatur properti tampilan elemen ke none  
-
+     d-none - mengatur properti tampilan elemen ke none
