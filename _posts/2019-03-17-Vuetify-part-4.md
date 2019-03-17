@@ -53,4 +53,5 @@ sebaliknya jika menggunakan visibility ``and-up`` maka dari nilai 1264px kebawah
 jika menggunakan ``only`` hanya pada size yang dilalui 1264px sampai 960px yang disembunyikan.
 
 ### Overflow
-Overflow berfungsi jika ada konten didalam elemen yang melebihi atau keluar dari element parent nya atau element yang membungkus konten tersebut.
+Overflow berfungsi jika ada konten didalam elemen yang melebihi atau keluar dari element parent nya atau element yang membungkus konten tersebut.  
+
