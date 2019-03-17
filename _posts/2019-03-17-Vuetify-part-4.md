@@ -61,5 +61,6 @@ Overflow berfungsi jika ada konten didalam elemen yang melebihi atau keluar dari
 ```
 
 ### Display
-Display biasa nya berfungsi untuk mengatur posisi setiap element.
+Display biasa nya berfungsi untuk mengatur posisi setiap element. Format penulisan nya adalah :
+
 
