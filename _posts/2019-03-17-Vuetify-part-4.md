@@ -21,3 +21,6 @@ langsung praktek aja.
 ```
 
 maka jadi seperti ini bagian home.vue
+![DeepinScreenshot_select-area_20190317190621.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190317190621.png)
+
+2. lalu jalan kan _npm run seve_ dan check dibrowser 
