@@ -11,3 +11,4 @@ Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita 
 ``md`` (_medium_) yaitu lebarnya diantara (960px >< 1264px) lebih besar dari 960px dan kurang dari 1264px maka true.  
 ``lg`` (_large_) yaitu lebarnya diantara (1264px >< 1904px) lebih besar dari 1264px dan kurang dari 1904px maka true.  
 ``xl`` (_extra large_) yaitu lebarnya ( > 1904px) lebih dari 1904px maka true.
+
