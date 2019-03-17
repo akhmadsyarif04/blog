@@ -7,5 +7,6 @@ Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita 
 
 > 
 ``xs`` (_extra small_) yaitu lebar nya (<600px) kurang dari 600px maka true.  
-``sm`` (_small_) yaitu lebarnya diantara (600px >< 960px) lebih besar dari 600px dan kuran dari 960px) maka true.  
+``sm`` (_small_) yaitu lebarnya diantara (600px >< 960px) lebih besar dari 600px dan kurang dari 960px maka true.
+``md`` (_medium_) yaitu lebarnya diantar (960px >< 1264px) lebih besar dari 960px dan kurang dari 1264px maka true.
 
