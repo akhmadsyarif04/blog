@@ -19,7 +19,7 @@ jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.
 ``xl`` (_extra large_) yaitu lebarnya ( > 1904px) lebih dari 1904px maka true.
 
 > bagian condition di isi dengan salah satu dari dibawah ini :  
-``only``  
+``only`` = hanya pada size yang ditentukan
 ``and-down``  
 ``and-up``
 
@@ -45,4 +45,5 @@ maka akan menjadi tampilan yang bisa kira resize sesuai yang kita mau atau sesua
 
 5. silahkan rubah size tersebut hingga kurang dari 1264px, kenapa 1264px ? karena yang digunakan tadi adalah md yaitu lebar kurang dari 1264px. ketika dibawah dari 1264px maka button tersebut akan terhidden atau menghilang. seperti gambar dibawah ini :
 ![DeepinScreenshot_select-area_20190317201008.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190317201008.png)
+
 
