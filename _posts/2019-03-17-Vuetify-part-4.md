@@ -20,8 +20,8 @@ jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.
 
 > bagian condition di isi dengan salah satu dari dibawah ini :  
 ``only`` = sembunyikan elemen sesuai aturan dari breakpoint hanya pada nilai size yang dilalui. misal breakpoint ``md`` maka dibawah dari 1264px sampai 960px akan disembunyikan. dibawah 960px akan tampil dan diatas atau pas 1264px akan tampil juga.  
-``and-down`` = sembunyikan elemen dari nilai size tertinggi sampai size 0px.  
-``and-up`` = menampilkan elemen dari nilai size tertinggi sampai size 0px.  
+``and-down`` = sembunyikan elemen dari nilai size breakpoint tertinggi sampai size 0px. sedangkan diatas nilai size breakpoint akan ditampilkan.  
+``and-up`` = menampilkan elemen dari nilai size breakpoint tertinggi sampai size 0px. sedangkan diatas nilai size breakpoint akan disembunyikan.  
 
 1. buka kembali file home.vue kalian, hapus script terdahulu dan ketikan dibawah ini.
 ```html
