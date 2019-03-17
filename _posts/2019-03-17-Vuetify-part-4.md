@@ -19,3 +19,5 @@ langsung praktek aja.
 ```html
     <v-btn class="hidden-md-and-down">Click me</v-btn>
 ```
+
+maka jadi seperti ini bagian home.vue
