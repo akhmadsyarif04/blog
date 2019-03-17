@@ -14,4 +14,5 @@ Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita 
 
 disana juga tercantum type dari setiap ukuran, adan tablet, laptop, dan dekstop.
 
-langsung praktek aja.
+langsung praktek aja. 
+1. buka kembali file home.vue kalian, hapus script terdahulu dan ketikan dibawah ini.
