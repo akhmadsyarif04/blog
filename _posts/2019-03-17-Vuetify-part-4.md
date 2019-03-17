@@ -27,8 +27,6 @@ jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.
 ```html
     <v-btn class="hidden-md-and-down">Click me</v-btn>
 ```
-Penjelasan :
-> 
 
 maka jadi seperti ini bagian home.vue
 ![DeepinScreenshot_select-area_20190317190621.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190317190621.png)
