@@ -16,3 +16,6 @@ disana juga tercantum type dari setiap ukuran, adan tablet, laptop, dan dekstop.
 
 langsung praktek aja. 
 1. buka kembali file home.vue kalian, hapus script terdahulu dan ketikan dibawah ini.
+```html
+
+```
