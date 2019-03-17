@@ -22,6 +22,7 @@ jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.
 ``only``  
 ``and-down``  
 ``and-up``
+
 1. buka kembali file home.vue kalian, hapus script terdahulu dan ketikan dibawah ini.
 ```html
     <v-btn class="hidden-md-and-down">Click me</v-btn>
