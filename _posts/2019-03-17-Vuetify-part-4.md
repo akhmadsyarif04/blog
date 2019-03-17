@@ -43,4 +43,4 @@ akan terlihat normal seperti biasa.
 
 maka akan menjadi tampilan yang bisa kira resize sesuai yang kita mau atau sesuai size dari smartphone.
 
-5. silahkan
+5. silahkan rubah size tersebut hingga kurang dari 1264px, kenapa 1264px ? karena yang digunakan tadi adalah md yaitu lebar kurang dari 1264px. ketika dibawah dari 1264px maka button tersebut akan terhidden atau menghilang. seperti gambar dibawah ini :
