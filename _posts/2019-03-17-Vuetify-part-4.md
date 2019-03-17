@@ -6,5 +6,6 @@ published: false
 Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita coba bagian breakpoint dan display. silahkan kalian masuk ke website resmi dari vuetifyjs.com [breakpoints](https://vuetifyjs.com/en/framework/breakpoints#breakpoints) dan [Display](https://vuetifyjs.com/en/framework/display#visibility). saya akan mencoba menjelaskan pada bagian breakpoin. disana terdapat table Viewport yang mana macam-macam ukuran device. 
 
 > 
-``xs`` (_extra small_) yaitu lebar nya < 600px 
+``xs`` (_extra small_) yaitu lebar nya (<600px) kurang dari 600px maka true.  
+``sm`` (_small_) yaitu lebarnya diantara (600px >< 960px) lebih besar dari 600px dan kuran dari 960px) maka true.  
 
