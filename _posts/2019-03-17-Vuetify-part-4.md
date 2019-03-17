@@ -14,7 +14,7 @@ Pada tutorial sebelum nya kita sudah mencoba button dan icon. nah sekarang kita 
 
 disana juga tercantum type dari setiap ukuran, adan tablet, laptop, dan dekstop.
 
-langsung praktek aja. 
+langsung praktek aja.  
 jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.  
 
 
