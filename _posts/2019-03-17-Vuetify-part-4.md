@@ -19,8 +19,8 @@ jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.
 ``xl`` (_extra large_) yaitu lebarnya ( > 1904px) lebih dari 1904px maka true.
 
 > bagian condition di isi dengan salah satu dari dibawah ini :  
-``only`` = sembunyikan elemen sesuai aturan dari breakpoint.
-``and-down``  
+``only`` = sembunyikan elemen sesuai aturan dari breakpoint hanya pada nilai size yang dilalui.
+``and-down`` = sembunyikan elemen se  
 ``and-up``
 
 1. buka kembali file home.vue kalian, hapus script terdahulu dan ketikan dibawah ini.
