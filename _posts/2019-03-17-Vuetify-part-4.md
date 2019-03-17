@@ -47,4 +47,6 @@ maka akan menjadi tampilan yang bisa kira resize sesuai yang kita mau atau sesua
 ![DeepinScreenshot_select-area_20190317201008.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190317201008.png)
 
 penjelasan :
-> karena kita menggunakan breapoint ``md`` dan visibility ``and-down`` maka dari nilai 1264px kebawah, button dilayar akan menghilang. sebaliknya jika menggunakan visibility ``and-up`` maka dari nilai 1264px kebawah akan tampil. jika menggunakan ``only`` hanya pada size yang dilalui 1264px sampai 960px yang disembunyikan.
+> karena kita menggunakan breapoint ``md`` dan visibility ``and-down`` maka dari nilai 1264px kebawah, button dilayar akan menghilang.  
+sebaliknya jika menggunakan visibility ``and-up`` maka dari nilai 1264px kebawah akan tampil.  
+jika menggunakan ``only`` hanya pada size yang dilalui 1264px sampai 960px yang disembunyikan.
