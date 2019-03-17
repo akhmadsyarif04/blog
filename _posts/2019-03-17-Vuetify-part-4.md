@@ -19,7 +19,7 @@ jadi format dari visibility adalah ``hidden-{breakpoint}-{condition}``.
 ``xl`` (_extra large_) yaitu lebarnya ( > 1904px) lebih dari 1904px maka true.
 
 > bagian condition di isi dengan salah satu dari dibawah ini :  
-``only`` = sembunyikan elemen sesuai aturan dari breakpoint hanya pada nilai size yang dilaluinya. misal breakpoint ``md`` maka dibawah dari 1264px sampai 960px akan disembunyikan. dibawah 960px akan tampil dan diatas atau pas 1264px akan tampil juga.  
+``only`` = sembunyikan elemen sesuai aturan dari breakpoint hanya pada nilai size yang dilaluinya. misal breakpoint ``md`` yang memiliki 2 nilai, maka dibawah dari 1264px sampai 960px akan disembunyikan. dibawah 960px akan tampil dan diatas atau pas 1264px akan tampil juga.  
 ``and-down`` = sembunyikan elemen dari nilai size breakpoint tertinggi sampai size 0px. sedangkan diatas nilai size breakpoint akan ditampilkan.  
 ``and-up`` = menampilkan elemen dari nilai size breakpoint tertinggi sampai size 0px. sedangkan diatas nilai size breakpoint akan disembunyikan.  
 
