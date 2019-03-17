@@ -38,3 +38,9 @@ akan terlihat normal seperti biasa.
 3. klik kanan dan _inspect element_.
 4. pilih icon ini, pada pojok kanan. (_note: saya menggunakan firefox_)
 ![DeepinScreenshot_select-area_20190317190947.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190317190947.png)
+
+![DeepinScreenshot_select-area_20190317200704.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190317200704.png)
+
+maka akan menjadi tampilan yang bisa kira resize sesuai yang kita mau atau sesuai size dari smartphone.
+
+5. silahkan
