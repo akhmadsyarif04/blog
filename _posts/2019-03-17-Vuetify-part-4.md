@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vuetify part 3 Breakpoint, Visibilty, Overflow, dan Display
+title: Vuetify part 4 Breakpoint, Visibilty, Overflow, dan Display
 categories: vuetify
 tags:
   - vuetify
