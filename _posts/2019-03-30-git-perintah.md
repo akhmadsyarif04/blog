@@ -29,22 +29,31 @@ mengembalikan file yang dirubah
 ``git reset --hard kodelog``
 agar kembali ke perubahan terdahulu, tapi perubahan yang dilewati akan terhapus.
 
-git branch # untuk melihat branch yang ada
-git branch branch_baru # membuat branch baru 
-git checkout -b branch_baru # membuat branch baru dan pindah ke yang baru
-git checkout nama_branch # pindah branch
+``git branch`` 
+untuk melihat branch yang ada
 
-{jika ingin menghapus branch baru maka tidak boleh berada dibranch itu}
-git branch -D nama_branch # mengahapus branch
+``git branch branch_baru`` 
+membuat branch baru 
 
-git branch -m nama_branch_lama nama_branch_baru # mengubah nama branch
+``git checkout -b branch_baru`` 
+membuat branch baru dan pindah ke yang baru
 
-git merge nama_branch # menggabungkan perubaha branch
+``git checkout nama_branch`` 
+pindah branch
 
-{ 
-    jika terjadi konflik antar branch setelah dimerge
-    maka automatis git akan memberitahu kesalahan pada atom.
+__jika ingin menghapus branch baru maka tidak boleh berada dibranch itu__
+
+``git branch -D nama_branch`` 
+mengahapus branch
+
+``git branch -m nama_branch_lama nama_branch_baru`` 
+mengubah nama branch
+
+``git merge nama_branch`` 
+menggabungkan perubaha branch
+
+>> 
+    jika terjadi konflik antar branch setelah dimerge maka automatis git akan memberitahu kesalahan pada atom.
     edit manual, setelah diedit maka commit lagi. maka konflik selesai dan perubahaan 
     commit sebelum nya pada branch lain ditambahkan pada branch yang menyelesaikan
     konflik tapi dibranch lain commit masih tetap seperti yang terakhir.
-}
