@@ -19,7 +19,8 @@ melihat log yang telah dilakukan
 untuk melihat perubahan
 > ketika sudah di __git add__ maka tidak tampil hasil __git diff__
         
-git checkout namafile # mengembalikan file yang dirubah
+``git checkout namafile`` 
+mengembalikan file yang dirubah
 
 git checkout kodelog -- namafile
 
