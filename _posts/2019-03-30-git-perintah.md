@@ -15,7 +15,8 @@ untuk save perubahan pada git local
 ``git log`` 
 melihat log yang telah dilakukan
 
-git diff #untuk melihat dimana tambahan terjadi
+``git diff`` 
+untuk melihat perubahan
 
         #jika sudah di add tidak tampil lagi hasil git diff
         
