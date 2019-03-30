@@ -9,7 +9,8 @@ untuk membuat folder .git pada folder
 ``git add`` 
 menambahkan data tapi tidak disave kerepo
 
-git commit -m "" #untuk mensave beneran
+``git commit -m ""`` 
+untuk save perubahan pada git local
 
 git log #melihat log
 
