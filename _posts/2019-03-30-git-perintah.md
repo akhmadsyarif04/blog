@@ -13,7 +13,7 @@ menambahkan data tapi tidak disave kerepo
 untuk save perubahan pada git local
 
 ``git log`` 
-melihat log
+melihat log yang telah dilakukan
 
 git diff #untuk melihat dimana tambahan terjadi
 
