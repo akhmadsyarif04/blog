@@ -12,7 +12,8 @@ menambahkan data tapi tidak disave kerepo
 ``git commit -m ""`` 
 untuk save perubahan pada git local
 
-git log #melihat log
+``git log`` 
+melihat log
 
 git diff #untuk melihat dimana tambahan terjadi
 
