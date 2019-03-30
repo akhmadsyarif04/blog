@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      Cara clone dan push file ke github
+categories: github
+tags:
+ - github
 published: true
 ---
 ## Perintah - Perintah git yang sering digunakan
