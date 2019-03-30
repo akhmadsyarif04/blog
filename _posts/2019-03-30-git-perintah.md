@@ -30,8 +30,8 @@ atau
 mengembalikan file yang dirubah
 
 ``git reset --soft kodelog``  
-``git reset --mixed kodelog``
-``git reset --hard kodelog``
+``git reset --mixed kodelog``  
+``git reset --hard kodelog``  
 agar kembali ke perubahan terdahulu, tapi perubahan yang dilewati akan terhapus.
 
 ``git branch`` 
@@ -46,7 +46,7 @@ membuat branch baru dan pindah ke yang baru
 ``git checkout nama_branch`` 
 pindah branch
 
-__jika ingin menghapus branch baru maka tidak boleh berada dibranch itu__
+>> jika ingin menghapus branch baru maka tidak boleh berada dibranch itu
 
 ``git branch -D nama_branch`` 
 mengahapus branch
@@ -57,8 +57,7 @@ mengubah nama branch
 ``git merge nama_branch`` 
 menggabungkan perubaha branch
 
->> 
-    jika terjadi konflik antar branch setelah dimerge maka automatis git akan memberitahu kesalahan pada atom.
-    edit manual, setelah diedit maka commit lagi. maka konflik selesai dan perubahaan 
-    commit sebelum nya pada branch lain ditambahkan pada branch yang menyelesaikan
-    konflik tapi dibranch lain commit masih tetap seperti yang terakhir.
+>> jika terjadi konflik antar branch setelah dimerge maka automatis git akan memberitahu kesalahan pada atom.
+edit manual, setelah diedit maka commit lagi. maka konflik selesai dan perubahaan
+commit sebelum nya pada branch lain ditambahkan pada branch yang menyelesaikan
+konflik tapi dibranch lain commit masih tetap seperti yang terakhir.
