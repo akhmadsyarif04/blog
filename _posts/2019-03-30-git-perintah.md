@@ -19,12 +19,12 @@ melihat log yang telah dilakukan
 untuk melihat perubahan
 > ketika sudah di __git add__ maka tidak tampil hasil __git diff__
         
-``git checkout namafile`` 
-atau
-``git checkout kodelog -- namafile``
+``git checkout namafile``  
+atau  
+``git checkout kodelog -- namafile``  
 mengembalikan file yang dirubah
 
-``git reset --soft kodelog``
+``git reset --soft kodelog``  
 ``git reset --mixed kodelog``
 ``git reset --hard kodelog``
 
