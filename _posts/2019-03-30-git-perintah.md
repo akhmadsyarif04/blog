@@ -24,9 +24,8 @@ atau
 ``git checkout kodelog -- namafile``
 mengembalikan file yang dirubah
 
-
-git reset --mixed kodelog 
-git reset --hard kodelog
+``git reset --mixed kodelog ``
+``git reset --hard kodelog``
 
 git branch # untuk melihat branch yang ada
 git branch branch_baru # membuat branch baru 
