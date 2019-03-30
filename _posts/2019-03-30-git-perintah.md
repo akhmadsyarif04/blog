@@ -17,8 +17,7 @@ melihat log yang telah dilakukan
 
 ``git diff`` 
 untuk melihat perubahan
-
-        #jika sudah di add tidak tampil lagi hasil git diff
+jika sudah di add tidak tampil lagi hasil git diff
         
 git checkout namafile # mengembalikan file yang dirubah
 
