@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Perintah - Perintah git yang sering digunakan
 
