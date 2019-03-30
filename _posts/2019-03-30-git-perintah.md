@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Cara clone dan push file ke github
+title:      Perintah-perintah git
 categories: github
 tags:
  - github
