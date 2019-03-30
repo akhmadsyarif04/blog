@@ -1,10 +1,13 @@
 ---
 published: false
 ---
-## A New Post
-git init
+## Perintah - Perintah git yang sering digunakan
 
-git add . #menambahkan data tapi tidak disave kerepo
+``git init``
+untuk membuat folder .git pada folder
+
+``git add`` 
+menambahkan data tapi tidak disave kerepo
 
 git commit -m "" #untuk mensave beneran
 
@@ -40,4 +43,3 @@ git merge nama_branch # menggabungkan perubaha branch
     commit sebelum nya pada branch lain ditambahkan pada branch yang menyelesaikan
     konflik tapi dibranch lain commit masih tetap seperti yang terakhir.
 }
-
