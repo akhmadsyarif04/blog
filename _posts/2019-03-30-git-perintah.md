@@ -22,7 +22,7 @@ untuk melihat perubahan
 ``git checkout namafile`` 
 mengembalikan file yang dirubah
 
-git checkout kodelog -- namafile
+``git checkout kodelog -- namafile``
 
 git reset --mixed kodelog 
 git reset --hard kodelog
