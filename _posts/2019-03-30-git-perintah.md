@@ -26,6 +26,8 @@ mengembalikan file yang dirubah
 
 ``git reset --mixed kodelog ``
 ``git reset --hard kodelog``
+``git reset --soft kodelog``
+
 
 git branch # untuk melihat branch yang ada
 git branch branch_baru # membuat branch baru 
