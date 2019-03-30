@@ -29,7 +29,6 @@ mengembalikan file yang dirubah
 ``git reset --hard kodelog``
 
 
-
 git branch # untuk melihat branch yang ada
 git branch branch_baru # membuat branch baru 
 git checkout -b branch_baru # membuat branch baru dan pindah ke yang baru
