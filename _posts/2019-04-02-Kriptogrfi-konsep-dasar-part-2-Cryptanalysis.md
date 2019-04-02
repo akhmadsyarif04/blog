@@ -28,9 +28,10 @@ b adalah bersarnya shift,
 n adalah besarnya perbendaharaan karakter (dengan kode 0 sampai n – 1).
 
 jadi rumus untuk enkripsi sesuai dengan relasi ekuivalen:
-Rumus untuk dekripsi juga sesuai dengan relasi ekuivalen gambar diatas.  
 
+Rumus untuk dekripsi juga sesuai dengan relasi ekuivalen gambar diatas.  
 ![DeepinScreenshot_select-area_20190318151538.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318151538.png)
+
 Julius Caesar sendiri menggunakan huruf “A” sampai “Z”  (dengan code 0 sampai 25) sebagai perbendaharaan karakter untuk enkripsi (karakter selain huruf tidak dienkripsi), dan menggunakan parameter b = 3 menghasilkan rumus enkripsi.  
 
 ![DeepinScreenshot_select-area_20190318154416.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318154416.png)
