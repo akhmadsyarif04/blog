@@ -21,6 +21,7 @@ Known plaintext attack adalah teknik pencarian kunci enkripsi berdasarkan penget
 Julius caesar menukar setiap huruf dalam naskah asli dengan huruf lain dalam naskah acak. Besar atau kecil huruf dipertahankan dalam naskah acak (huruf besar ditukar dengan huruf besar, huruf kecil ditukar dengan huruf kecil), spasi, titik, koma dan tanda lainnya tidak ditukar.  
 Ceaser cipher adalah jenis enkripsi yang disebut simple substitution chiper dimana setiap huruf dalam naskah asli ditukar dengan huruf lain dalam naskah acak.  
 Julius Caesear menukar huruf dengan cara shift transformation. Rumus umum untuk shift transformation adalah : 
+![DeepinScreenshot_select-area_20190318150745.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318150745.png)
 dimana :  
 C adalah kode bilangan karakter acak,
 P adalah kode bilangan karakter asli,
@@ -28,6 +29,8 @@ b adalah bersarnya shift,
 n adalah besarnya perbendaharaan karakter (dengan kode 0 sampai n – 1).
 
 jadi rumus untuk enkripsi sesuai dengan relasi ekuivalen:
+![DeepinScreenshot_select-area_20190318151229.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318151229.png)
+
 
 Rumus untuk dekripsi juga sesuai dengan relasi ekuivalen gambar diatas.  
 ![DeepinScreenshot_select-area_20190318151538.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318151538.png)
