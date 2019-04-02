@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## A New Post
+## One Time Pad
 
 Teknik one-time pad adalah teknik enkripsi yang sempuna (perfect encryption) asalkan proses pembuatan kunci bener-bener acak.
 
