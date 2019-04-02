@@ -35,9 +35,7 @@ Jadi untuk enkripsi, 0 (“A”) ditukar dengan 3 (“D”), 1 (“B”) dengan 
 
 Rumus dekripsi menjadi 
  
-Naskah Asli  
-Jangan rahasiakan pesan ini!  
-Naskah Acak  
-Mdqjdq udkdvldndq shvdq lql!  
+| Naskah Asli|Jangan rahasiakan pesan ini! |
+| Naskah Acak | Mdqjdq udkdvldndq shvdq lql! |
 
 Tingkat kesukaran known-plaintext attack tergantung pada rumus yang digunakan untuk enkripsi. Semakin rumit rumus yang digunakan, semakin sukar untuk melakukan known-plaintext attack. Rumus yang bersifat linear masih tergolong sederhana dan dianggap rentan terhadap known-plaintext attack. Semakin non-linear dan semakin banyak parameter yang digunakan untuk rumus, semakin sulit untuk mengkalkulasi kunci berdasarkan rumus.  
