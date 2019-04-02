@@ -34,6 +34,7 @@ Julius Caesar sendiri menggunakan huruf “A” sampai “Z”  (dengan code 0 s
 Jadi untuk enkripsi, 0 (“A”) ditukar dengan 3 (“D”), 1 (“B”) dengan 4 (“E”), …. , 24 (“Y”) dengan 1 (“B”), dan 25 (“Z”) dengan 2 (“C”).
 
 Rumus dekripsi menjadi 
+![DeepinScreenshot_select-area_20190318154652.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318154652.png)
  
 | Naskah Asli|Jangan rahasiakan pesan ini! |
 | Naskah Acak | Mdqjdq udkdvldndq shvdq lql! |
