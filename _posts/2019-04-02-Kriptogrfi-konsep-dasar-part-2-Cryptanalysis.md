@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## A New Post
+## Cryptanalysis
 
 Cryptanalysis adalah teknik untuk mencoba memecahkan enkripsi, biasanya dengan cara mencari kunci enkripsi. Ada 3 ketegori teknik pencarian kunci yang biasanya digunakan pada kriptografi klasik :
                                         1) known plaintext attack
