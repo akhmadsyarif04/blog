@@ -50,6 +50,9 @@ Jadi untuk enkripsi, 0 (“A”) ditukar dengan 3 (“D”), 1 (“B”) dengan 
 Rumus dekripsi menjadi  
 ![DeepinScreenshot_select-area_20190318154652.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190318154652.png)
  
+
+| Command | Keterangan |
+|-------|--------|
 | Naskah Asli | Jangan rahasiakan pesan ini! |  
 | Naskah Acak | Mdqjdq udkdvldndq shvdq lql! |
 
