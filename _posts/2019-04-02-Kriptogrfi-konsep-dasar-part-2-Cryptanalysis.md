@@ -51,9 +51,9 @@ Rumus dekripsi menjadi
 ![DeepinScreenshot_select-area_20190318154652.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190318154652.png)
  
 
-| Command | Keterangan |
+| Keterangan | Nilai/isi dari naskah |
 |-------|--------|
 | Naskah Asli | Jangan rahasiakan pesan ini! |  
-| Naskah Acak | Mdqjdq udkdvldndq shvdq lql! |
+| Naskah Setelah Di Acak | Mdqjdq udkdvldndq shvdq lql! |
 
 Tingkat kesukaran known-plaintext attack tergantung pada rumus yang digunakan untuk enkripsi. Semakin rumit rumus yang digunakan, semakin sukar untuk melakukan known-plaintext attack. Rumus yang bersifat linear masih tergolong sederhana dan dianggap rentan terhadap known-plaintext attack. Semakin non-linear dan semakin banyak parameter yang digunakan untuk rumus, semakin sulit untuk mengkalkulasi kunci berdasarkan rumus.  
