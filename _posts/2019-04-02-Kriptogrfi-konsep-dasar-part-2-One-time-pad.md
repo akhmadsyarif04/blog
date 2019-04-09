@@ -6,12 +6,12 @@ published: false
 Teknik one-time pad adalah teknik enkripsi yang sempuna (perfect encryption) asalkan proses pembuatan kunci bener-bener acak.
 
 Proses enkripsi one-time pad
-![1.png]({{site.baseurl}}/_posts/1.png)
+![1.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/1.png)
 
 Dengan one-time pad, operasi exclusive or (xor) dilakukan pada naskah asli, sedangkan pada kunci dengan cara Bitwise (Bitwise adalah operator xor digunakan sebagai operasi dasar yang paling banyak digunakan dalam enkripsi berbasis byte.) seperti pada gambar diatas. Operasi xor akan menghasilkan 0 jika argumen sama. Misalnya 0 dengan 0 maka hasil nya adalah 0, dan 1 dengan 1 maka hasilnya 0. Dan menghasilkan 1 jika argumen nya berbeda. Misalnya 0 dengan 1 maka hasilnya 1, 1 dengan 0 hasilnya 1.
 
 Proses dekripsi one-time pad    
-![2.png]({{site.baseurl}}/_posts/2.png)
+![2.png]({https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/2.png)
 
 Proses dekripsi sama dengan proses enkripsi, akan tetapi xor dilakukan pada naskah acak dan kunci dekripsi. Catatan, kunci enkripsi dan dekripsi itu sama.  
 Operasi exclusive or sangat berperan dalam kriptografi: semua algoritma enkripsi simetris modern menggunakan operasi exclusice or. Simbol⊕sering kali digunakan dalam petanda exclusive or.  
