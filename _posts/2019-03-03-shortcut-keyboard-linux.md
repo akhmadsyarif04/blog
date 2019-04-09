@@ -10,7 +10,7 @@ published: true
 ---
 Sekarang saya akan membagi shortcut keyboard dilinux KDE/XFACE yang sering saya gunakan
 
-| Priority apples | Second priority |
+| Command | Keterangan |
 |-------|--------|
 |CTRL + T |	Tab Baru |
 |CTRL + W |	Tutup Tab |
