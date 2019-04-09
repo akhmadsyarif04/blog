@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Konsep Dasar Kriptografi part 2 Cryptanalysis part 1
+title:      Konsep Dasar Kriptografi part 3 Cryptanalysis part 1
 categories: kriptografi
 tags:
  - kriptografi
