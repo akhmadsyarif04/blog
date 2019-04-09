@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Konsep Dasar Kriptografi part 2 Cryptanalysis part 1
+categories: kriptografi
+tags:
+ - kriptografi
+published: true
 ---
 ## Cryptanalysis
 
@@ -21,7 +26,7 @@ Known plaintext attack adalah teknik pencarian kunci enkripsi berdasarkan penget
 Julius caesar menukar setiap huruf dalam naskah asli dengan huruf lain dalam naskah acak. Besar atau kecil huruf dipertahankan dalam naskah acak (huruf besar ditukar dengan huruf besar, huruf kecil ditukar dengan huruf kecil), spasi, titik, koma dan tanda lainnya tidak ditukar.  
 Ceaser cipher adalah jenis enkripsi yang disebut simple substitution chiper dimana setiap huruf dalam naskah asli ditukar dengan huruf lain dalam naskah acak.  
 Julius Caesear menukar huruf dengan cara shift transformation. Rumus umum untuk shift transformation adalah : 
-![DeepinScreenshot_select-area_20190318150745.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318150745.png)
+![DeepinScreenshot_select-area_20190318150745.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190318150745.png)
 dimana :  
 C adalah kode bilangan karakter acak,
 P adalah kode bilangan karakter asli,
@@ -29,18 +34,18 @@ b adalah bersarnya shift,
 n adalah besarnya perbendaharaan karakter (dengan kode 0 sampai n – 1).
 
 jadi rumus untuk enkripsi sesuai dengan relasi ekuivalen:
-![DeepinScreenshot_select-area_20190318151229.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318151229.png)
+![DeepinScreenshot_select-area_20190318151229.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190318151229.png)
 
 
 Rumus untuk dekripsi juga sesuai dengan relasi ekuivalen gambar diatas.  
-![DeepinScreenshot_select-area_20190318151538.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318151538.png)
+![DeepinScreenshot_select-area_20190318151538.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190318151538.png)
 
 Julius Caesar sendiri menggunakan huruf “A” sampai “Z”  (dengan code 0 sampai 25) sebagai perbendaharaan karakter untuk enkripsi (karakter selain huruf tidak dienkripsi), dan menggunakan parameter b = 3 menghasilkan rumus enkripsi.  
-![DeepinScreenshot_select-area_20190318154416.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318154416.png)
+![DeepinScreenshot_select-area_20190318154416.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190318154416.png)
 
 Jadi untuk enkripsi, 0 (“A”) ditukar dengan 3 (“D”), 1 (“B”) dengan 4 (“E”), …. , 24 (“Y”) dengan 1 (“B”), dan 25 (“Z”) dengan 2 (“C”).  
 Rumus dekripsi menjadi 
-![DeepinScreenshot_select-area_20190318154652.png]({{site.baseurl}}/_posts/DeepinScreenshot_select-area_20190318154652.png)
+![DeepinScreenshot_select-area_20190318154652.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190318154652.png)
  
 | Naskah Asli|Jangan rahasiakan pesan ini! |
 | Naskah Acak | Mdqjdq udkdvldndq shvdq lql! |
