@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      Konsep Dasar Kriptografi part 2 One Time Pad
+layout: post
+title: Konsep Dasar Kriptografi part 2 One Time Pad
 categories: kriptografi
 tags:
- - kriptografi
+  - kriptografi
 published: true
 ---
 ## One Time Pad
@@ -22,3 +22,10 @@ Proses dekripsi sama dengan proses enkripsi, akan tetapi xor dilakukan pada nask
 Operasi exclusive or sangat berperan dalam kriptografi: semua algoritma enkripsi simetris modern menggunakan operasi exclusice or. Simbol⊕sering kali digunakan dalam petanda exclusive or.  
 Key management (pengelola kunci) menjadi sangat penting dan merupakan kelemahan one-time pad yang membuatnya tidak layak untuk menggunakan dengan skala besar. Besar kunci harus sama dengan besar naskah asli, dan kunci tidak boleh digunakan berkali-kali. Selain masalah key generation ( Key generation merupakan kegiatam manajemen kunci dalam menghasilkan kunci yang acak dimana keacakan kunci merupakan bagian terpenting dalam menjamin kekuatan suatu kriptografi ) ,  masalah key distribution menjadi kendala penggunaan skala besar pada enkripsi one-time pad.  
 One-time pad dapat digunakan dalam berkomunikasi sangat rahasia asal dengan volume yang kecil atau tidak terlalu besar. Jika pada penggunaan skala besar suatu sistem teknologi informasi, one-time pad tidak praktis untuk digunakan. Walaupun begitu konsep one-time pad ini ditiru dalam teknik enkripsi stream cipher.
+
+
+
+_sumber : Teori dan Aplikasi Kriptografi  
+Penulis: Sentot Kromodimoeljo  
+Januari 2010_  
+
