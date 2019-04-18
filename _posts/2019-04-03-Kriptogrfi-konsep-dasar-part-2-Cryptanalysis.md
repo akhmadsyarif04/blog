@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      Konsep Dasar Kriptografi part 3 Cryptanalysis part 1
+layout: post
+title: Konsep Dasar Kriptografi part 3 Cryptanalysis part 1
 categories: kriptografi
 tags:
- - kriptografi
+  - kriptografi
 published: true
 ---
 ## Cryptanalysis
@@ -56,4 +56,10 @@ Rumus dekripsi menjadi
 | Naskah Asli | Jangan rahasiakan pesan ini! |  
 | Naskah Setelah Di Acak | Mdqjdq udkdvldndq shvdq lql! |
 
-Tingkat kesukaran known-plaintext attack tergantung pada rumus yang digunakan untuk enkripsi. Semakin rumit rumus yang digunakan, semakin sukar untuk melakukan known-plaintext attack. Rumus yang bersifat linear masih tergolong sederhana dan dianggap rentan terhadap known-plaintext attack. Semakin non-linear dan semakin banyak parameter yang digunakan untuk rumus, semakin sulit untuk mengkalkulasi kunci berdasarkan rumus.  
+Tingkat kesukaran known-plaintext attack tergantung pada rumus yang digunakan untuk enkripsi. Semakin rumit rumus yang digunakan, semakin sukar untuk melakukan known-plaintext attack. Rumus yang bersifat linear masih tergolong sederhana dan dianggap rentan terhadap known-plaintext attack. Semakin non-linear dan semakin banyak parameter yang digunakan untuk rumus, semakin sulit untuk mengkalkulasi kunci berdasarkan rumus.
+
+
+_sumber : Teori dan Aplikasi Kriptografi  
+Penulis: Sentot Kromodimoeljo  
+Januari 2010_  
+
