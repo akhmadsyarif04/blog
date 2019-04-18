@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      Konsep Dasar Kriptografi part 1 Konsep Acak
+layout: post
+title: Konsep Dasar Kriptografi part 1 Konsep Acak
 categories: kriptografi
 tags:
- - kriptografi
+  - kriptografi
 published: true
 ---
 # Konsep Dasar Kriptografi part 1
@@ -27,3 +27,8 @@ enkripsi dari analisa efek perbedaan naskah asli terhadap perbedaan naskah acak.
   Meskipun tidak sebenarnya acak, sesuatu yang *pseudo-random* berguna dan digunakan dalam kriptografi, tetapi harus dikombinasikan dengan sesuatu yang benar-benar acak. Sebagai contoh, *pseudo-random number generator* dikombinasikan dengan sumber *entropi* (**ukuran jumlah informasi didalam pesan**) yang benar acak sebagai *seed* (**kunci enkripsi**), untuk mendapatkan sesuatu yang praktis bersifat random number generator.
 
 Part 2 tentang konsep dasar One-time pad.
+
+
+_sumber : Teori dan Aplikasi Kriptografi  
+Penulis: Sentot Kromodimoeljo  
+Januari 2010_
