@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      Apa itu kriptografi
+layout: post
+title: Apa itu kriptografi
 categories: kriptografi
 tags:
- - kriptografi
+  - kriptografi
 published: true
 ---
 ## Kriptografi
@@ -46,3 +46,8 @@ dari A menjadi G, B menjadi H, C menjadi I, D menjadi J dan seterus nya.
 Jika dekripsi adalah kebalikan diatas. dari chipertext ke plaintext.
 
 Itu adalah salah satu contoh sederana dari teknik kriptografi. Masih banyak lagi teknik kriptografi yang bisa digunakan. Semoga bermanfaat dan jika ada salah dalam tulisan ini mohon komen dan give me suggestion.
+
+
+_sumber : Teori dan Aplikasi Kriptografi  
+Penulis: Sentot Kromodimoeljo  
+Januari 2010_
