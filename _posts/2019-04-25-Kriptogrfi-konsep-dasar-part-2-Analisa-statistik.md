@@ -8,10 +8,21 @@ Semua algoritma enkripsi sebelum data encryption standard (DES) rentan terhadap 
 Enkripsi dengan cara Shift transformation sangat rentan terhadap analisa frekuensi sebagai berikut: dengan rumus enkripsi  
 > C ≡ P + b (mod n)
 
-jika n diketahui dan sepasang C dan P dapa diterka dengan akurat, maka parameter b (kunci) dapat dicari. Setiap “pencarian” b  dapat dicoba cukup dengan sepasang nilai untuk C dan P.  Sebagai contoh menggunakan naskah acak pada tabel enkripsi dengan caesar cipher, huruf “D” dan “Q” adalah yang terbanyak digunakan dalam naskah acak. Karena dalam bahasa Indonesia, Huruf “A” adalah huruf dengan statistik penggunaan terbesar. Jika naskah asli dalam bahasa Indonesia , maka besar kemungkinan huruf “D” atau “Q” merupakan huruf acak untuk “A”. Jadi besar kemungkinan, jika kita menggunakan kode untuk “D” atau “Q” sebagai nilai C dan kode untuk “A” sebagai nilai P, rumus enkripsi akan menghasilkan nilai b yang benar. Jadi mari coba 2 kemungkinan: pasangan “D-A” (yang menghasilkan b = 3) dan pasangan “Q-A” (yang menghasilkan b = 16). Hasil yang dicari adalah nilai b yang jika digunakan untuk mendekripsi naskah acak akan menghasilkan naskah asli yang “masuk akal”.
+jika n diketahui dan sepasang C dan P dapa diterka dengan akurat, maka parameter b (kunci) dapat dicari. Setiap “pencarian” b  dapat dicoba cukup dengan sepasang nilai untuk C dan P.  Sebagai contoh menggunakan naskah acak pada tabel enkripsi dengan caesar cipher. 
+
+| Keterangan | Nilai/isi dari naskah |
+|-------|--------|
+| Naskah Asli | Jangan rahasiakan pesan ini! |  
+| Naskah Acak | Mdqjdq udkdvldndq shvdq lql! |
+
+Huruf “D” dan “Q” adalah yang terbanyak digunakan dalam naskah acak. Karena dalam bahasa Indonesia, Huruf “A” adalah huruf dengan statistik penggunaan terbesar. Jika naskah asli dalam bahasa Indonesia , maka besar kemungkinan huruf “D” atau “Q” merupakan huruf acak untuk “A”. Jadi besar kemungkinan, jika kita menggunakan kode untuk “D” atau “Q” sebagai nilai C dan kode untuk “A” sebagai nilai P, rumus enkripsi akan menghasilkan nilai b yang benar. Jadi mari coba 2 kemungkinan: pasangan “D-A” (yang menghasilkan b = 3) dan pasangan “Q-A” (yang menghasilkan b = 16). Hasil yang dicari adalah nilai b yang jika digunakan untuk mendekripsi naskah acak akan menghasilkan naskah asli yang “masuk akal”.
 
 Hasil analisa frekuensi
-	
+| Pasangan | Kode Acak | Kode Asli | Nilai __b__ | Hasil Dekripsi |
+|-------|--------|--------|--------|--------|
+| D-A | 3 |  
+| Q-A | 16 |
+
 berdasarkan hasil analisa frekuensi, yang “masuk akal” hanya b=3 dengan hasil dekripsi “Jangan rahasiakan pesan ini!”, jadi kita dapat cukup yakin bahwa parameter b=3.
 	Analisa frekuensi diatas didasarkan pada pengetahuan bahwa naskah asli adalah dalam bahasa Indonesia, dimana huruf “A” lebih dominan. Tentunya naskah asli tidak akan selalu mempunyai statistik penggunaan akan mirip dengan data empiris, yang berarti semakin besar kemungkinan analisa frekuensi akan sukses.
 
