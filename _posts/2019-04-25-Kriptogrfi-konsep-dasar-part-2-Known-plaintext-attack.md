@@ -19,14 +19,14 @@ P adalah kode bilangan karakter asli,
 b adalah bersarnya shift,
 n adalah besarnya perbendaharaan karakter (dengan kode 0 sampai n – 1).
 
-jadi rumus untuk enkripsi sesuai dengan relasi ekuivalen:
+jadi rumus untuk enkripsi sesuai dengan relasi ekuivalen:  
 ![rumus-shift-transformation-enkrip.png]({{site.baseurl}}/_posts/rumus-shift-transformation-enkrip.png)
-Rumus untuk dekripsi juga sesuai dengan relasi ekuivalen :
-![rumus-shift-transformation-dekrip.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/rumus-shift-transformation-dekrip.png)
-Julius Caesar sendiri menggunakan huruf “A” sampai “Z”  (dengan code 0 sampai 25) sebagai perbendaharaan karakter untuk enkripsi (karakter selain huruf tidak dienkripsi), dan menggunakan parameter b = 3 menghasilkan rumus enkripsi.
-![contoh-rumus-julius-caesar-enkripsi.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/contoh-rumus-julius-caesar-enkripsi.png)
+Rumus untuk dekripsi juga sesuai dengan relasi ekuivalen :  
+![rumus-shift-transformation-dekrip.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/rumus-shift-transformation-dekrip.png)  
+Julius Caesar sendiri menggunakan huruf “A” sampai “Z”  (dengan code 0 sampai 25) sebagai perbendaharaan karakter untuk enkripsi (karakter selain huruf tidak dienkripsi), dan menggunakan parameter b = 3 menghasilkan rumus enkripsi.  
+![contoh-rumus-julius-caesar-enkripsi.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/contoh-rumus-julius-caesar-enkripsi.png)  
 Jadi untuk enkripsi, 0 (“A”) ditukar dengan 3 (“D”), 1 (“B”) dengan 4 (“E”), …. , 24 (“Y”) dengan 1 (“B”), dan 25 (“Z”) dengan 2 (“C”).  
-Rumus dekripsi menjadi 
+Rumus dekripsi menjadi  
 ![contoh-rumus-julius-caesar-dekripsi.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/contoh-rumus-julius-caesar-dekripsi.png)
 
 | Keterangan | Nilai/isi dari naskah |
