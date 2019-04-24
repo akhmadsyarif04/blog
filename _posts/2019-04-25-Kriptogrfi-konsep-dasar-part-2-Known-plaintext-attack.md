@@ -3,13 +3,16 @@ published: false
 ---
 ## Known Plaintext Attack
 
-Known plaintext attack adalah teknik pencarian kunci enkripsi berdasarkan pengetahuan mengenai pasangan asli – naskah acak. Kita akan menggunakan Ceaser chiper sebagai contoh dari enkripsi yang rentan terhadap known plaintext attack.
+__Known plaintext attack__ adalah teknik pencarian kunci enkripsi berdasarkan pengetahuan mengenai pasangan asli – naskah acak. Kita akan menggunakan Ceaser chiper sebagai contoh dari enkripsi yang rentan terhadap __known plaintext attack__.
 
 Julius caesar menukar setiap huruf dalam naskah asli dengan huruf lain dalam naskah acak. Besar atau kecil huruf dipertahankan dalam naskah acak (huruf besar ditukar dengan huruf besar, huruf kecil ditukar dengan huruf kecil), spasi, titik, koma dan tanda lainnya tidak ditukar.
 
 Ceaser cipher adalah jenis enkripsi yang disebut simple substitution chiper dimana setiap huruf dalam naskah asli ditukar dengan huruf lain dalam naskah acak. 
 
 Julius Caesear menukar huruf dengan cara shift transformation. Rumus umum untuk shift transformation adalah : 
+
+![rumus shift transformation.png]({{site.baseurl}}/_posts/rumus shift transformation.png)
+
 dimana :
 C adalah kode bilangan karakter acak,
 P adalah kode bilangan karakter asli,
