@@ -18,6 +18,7 @@ jika n diketahui dan sepasang _C_ dan _P_ dapa diterka dengan akurat, maka param
 Huruf “D” dan “Q” adalah yang terbanyak digunakan dalam naskah acak. Karena dalam bahasa Indonesia, Huruf “A” adalah huruf dengan statistik penggunaan terbesar. Jika naskah asli dalam bahasa Indonesia , maka besar kemungkinan huruf “D” atau “Q” merupakan huruf acak untuk “A”. Jadi besar kemungkinan, jika kita menggunakan kode untuk “D” atau “Q” sebagai nilai _C_ dan kode untuk “A” sebagai nilai _P_, rumus enkripsi akan menghasilkan nilai _b_ yang benar. Jadi mari coba 2 kemungkinan: pasangan “D-A” (yang menghasilkan _b_ = 3) dan pasangan “Q-A” (yang menghasilkan _b_ = 16). Hasil yang dicari adalah nilai _b_ yang jika digunakan untuk mendekripsi naskah acak akan menghasilkan naskah asli yang “masuk akal”.
 
 Hasil analisa frekuensi
+
 | Pasangan | Kode Acak | Kode Asli | Nilai __b__ | Hasil Dekripsi |
 |-------|--------|--------|--------|--------|
 | D-A | 3 | 0 | __b__ = 3 | Jangan rahasiakan pesan ini! |    
