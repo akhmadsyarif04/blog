@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Konsep Dasar Kriptografi part 3 Cryptanalysis part 2
+categories: kriptografi
+tags:
+  - kriptografi
+published: true
 ---
 ## Analisa Statistik
 
