@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Konsep Dasar Kriptografi part 3 Cryptanalysis part 1
+title: Konsep Dasar Kriptografi part 3 Cryptanalysis part 1 Known plaintext Attack
 categories: kriptografi
 tags:
   - kriptografi
