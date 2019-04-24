@@ -29,10 +29,14 @@ Julius Caesar sendiri menggunakan huruf “A” sampai “Z”  (dengan code 0 s
 Jadi untuk enkripsi, 0 (“A”) ditukar dengan 3 (“D”), 1 (“B”) dengan 4 (“E”), …. , 24 (“Y”) dengan 1 (“B”), dan 25 (“Z”) dengan 2 (“C”).  
 Rumus dekripsi menjadi 
 ![contoh rumus julius caesar dekripsi.png]({{site.baseurl}}/_posts/contoh rumus julius caesar dekripsi.png)
- 
-Naskah Asli
-Jangan rahasiakan pesan ini!
-Naskah Acak 
-Mdqjdq udkdvldndq shvdq lql!
+
+| Keterangan | Nilai/isi dari naskah |
+|-------|--------|
+| Naskah Asli | Jangan rahasiakan pesan ini! |  
+| Naskah Setelah Di Acak | Mdqjdq udkdvldndq shvdq lql! | 
 
 Tingkat kesukaran known-plaintext attack tergantung pada rumus yang digunakan untuk enkripsi. Semakin rumit rumus yang digunakan, semakin sukar untuk melakukan known-plaintext attack. Rumus yang bersifat linear masih tergolong sederhana dan dianggap rentan terhadap known-plaintext attack. Semakin non-linear dan semakin banyak parameter yang digunakan untuk rumus, semakin sulit untuk mengkalkulasi kunci berdasarkan rumus.
+
+_sumber : Teori dan Aplikasi Kriptografi  
+Penulis: Sentot Kromodimoeljo  
+Januari 2010_
