@@ -1,45 +1,18 @@
 ---
 layout: post
-title: Konsep Dasar Kriptografi part 3 Cryptanalysis part 3
+title: Konsep Dasar Kriptografi part 3 Cryptanalysis part 3 Brute Force
 categories: kriptografi
 tags:
   - kriptografi
 published: true
 ---
-## Known Plaintext Attack
+## Brute Force Search / Brute Force
 
-__Known plaintext attack__ adalah teknik pencarian kunci enkripsi berdasarkan pengetahuan mengenai pasangan asli – naskah acak. Kita akan menggunakan Ceaser chiper sebagai contoh dari enkripsi yang rentan terhadap __known plaintext attack__.
+Salah satu kriteria bahwa sistem enkripsi  yang baik adalah apabila dekripsi tanpa kunci dan hanya dapat dipecahkan dengan cara brute force search yaitu dimana semua kemungkinan kunci dicoba. Semakin besar jumlah kemungkinan kunci yang dicoba maka semakin besar waktu yang dibutuhkan, dan semakin besar jumlah kemungkinan kunci semakin besar keberhasilan.
 
-Julius caesar menukar setiap huruf dalam naskah asli dengan huruf lain dalam naskah acak. Besar atau kecil huruf dipertahankan dalam naskah acak (huruf besar ditukar dengan huruf besar, huruf kecil ditukar dengan huruf kecil), spasi, titik, koma dan tanda lainnya tidak ditukar.
-
-Ceaser cipher adalah jenis enkripsi yang disebut simple substitution chiper dimana setiap huruf dalam naskah asli ditukar dengan huruf lain dalam naskah acak. 
-
-Julius Caesear menukar huruf dengan cara shift transformation. Rumus umum untuk shift transformation adalah : 
-
-![rumus-shift-transformation.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/rumus-shift-transformation.png)
-
-dimana :
-C adalah kode bilangan karakter acak,
-P adalah kode bilangan karakter asli,
-b adalah bersarnya shift,
-n adalah besarnya perbendaharaan karakter (dengan kode 0 sampai n – 1).
-
-jadi rumus untuk enkripsi sesuai dengan relasi ekuivalen:  
-![rumus-shift-transformation-enkrip.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/rumus-shift-transformation-enkrip.png)  
-Rumus untuk dekripsi juga sesuai dengan relasi ekuivalen :  
-![rumus-shift-transformation-dekrip.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/rumus-shift-transformation-dekrip.png)  
-Julius Caesar sendiri menggunakan huruf “A” sampai “Z”  (dengan code 0 sampai 25) sebagai perbendaharaan karakter untuk enkripsi (karakter selain huruf tidak dienkripsi), dan menggunakan parameter b = 3 menghasilkan rumus enkripsi.  
-![contoh-rumus-julius-caesar-enkripsi.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/contoh-rumus-julius-caesar-enkripsi.png)  
-Jadi untuk enkripsi, 0 (“A”) ditukar dengan 3 (“D”), 1 (“B”) dengan 4 (“E”), …. , 24 (“Y”) dengan 1 (“B”), dan 25 (“Z”) dengan 2 (“C”).  
-Rumus dekripsi menjadi  
-![contoh-rumus-julius-caesar-dekripsi.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/contoh-rumus-julius-caesar-dekripsi.png)
-
-| Keterangan | Nilai/isi dari naskah |
-|-------|--------|
-| Naskah Asli | Jangan rahasiakan pesan ini! |  
-| Naskah Setelah Di Acak | Mdqjdq udkdvldndq shvdq lql! | 
-
-Tingkat kesukaran known-plaintext attack tergantung pada rumus yang digunakan untuk enkripsi. Semakin rumit rumus yang digunakan, semakin sukar untuk melakukan known-plaintext attack. Rumus yang bersifat linear masih tergolong sederhana dan dianggap rentan terhadap known-plaintext attack. Semakin non-linear dan semakin banyak parameter yang digunakan untuk rumus, semakin sulit untuk mengkalkulasi kunci berdasarkan rumus.
+Untuk kunci sebesar n bits, jumlah kemungkinan kunci adalah 2n, kunci akan ditemukan setelah kita mencoba 2n-1 kemungkinan (setengah dari semua kemungkinan). Jadi enkripsi rentan terhadap brute force search jika 2n kemungkinan kunci dapat dicoba dalam waktu yang tidak terlalu lama. Untuk waktu yang diperlukan juga tergantung dari hardware yang digunakan.
+    
+Besar kunci enkripsi ikut menetukan sukses dari brute force search. Dengan kemajuan dibidang hardware untuk melakukan brute force search (hardware khusus dapat dibuat untuk melakukan brute force search terhadap kunci block cipher), enkripsi block cipher dengan besar kunci 56 bit (jadi ada 256 kemungkinan) kini dapat dipecahkan dalam waktu yang tidak terlalu lama (kira-kira puluhan menit) dengan hardware seharga 1 juta USD. Dengan hardware yang lebih banyak, waktu yang diperlukan menjadi semakin singkat dengan perbandingan waktu inverse proportional (berbanding terbalik) terhadap harga. Untuk keamanan, sebaiknya enkripsi block cipher menggunakan kunci minimum 128bit. Data encryption standard (DES) hanya menggunakan 56bit untuk kunci, jadi sebaiknya diganti dengan 3DES atau block cipher lain seperti CAST, AES dan Blowfish.
 
 _sumber : Teori dan Aplikasi Kriptografi  
 Penulis: Sentot Kromodimoeljo  
