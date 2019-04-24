@@ -20,8 +20,8 @@ Huruf “D” dan “Q” adalah yang terbanyak digunakan dalam naskah acak. Kar
 Hasil analisa frekuensi
 | Pasangan | Kode Acak | Kode Asli | Nilai __b__ | Hasil Dekripsi |
 |-------|--------|--------|--------|--------|
-| D-A | 3 |  
-| Q-A | 16 |
+| D-A | 3 | 0 | __b__ = 3 | Jangan rahasiakan pesan ini! |    
+| Q-A | 16 | 0 | __b__ = 16 | Mdqjdq udkdvldndq shvdq lql! |
 
 berdasarkan hasil analisa frekuensi, yang “masuk akal” hanya b=3 dengan hasil dekripsi “Jangan rahasiakan pesan ini!”, jadi kita dapat cukup yakin bahwa parameter b=3.
 	Analisa frekuensi diatas didasarkan pada pengetahuan bahwa naskah asli adalah dalam bahasa Indonesia, dimana huruf “A” lebih dominan. Tentunya naskah asli tidak akan selalu mempunyai statistik penggunaan akan mirip dengan data empiris, yang berarti semakin besar kemungkinan analisa frekuensi akan sukses.
