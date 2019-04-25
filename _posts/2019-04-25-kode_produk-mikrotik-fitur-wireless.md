@@ -10,9 +10,9 @@ Cara membaca format penulisan dalam fitur wireless mikrotik : BAND – Power per
 
 BAND =  
 Bandwith ada 3 yaitu :  
-		- 5 : 5GHz  
-		- 2 : 2GHz  
-		- 52 : 5 dan 2GHz  
+- 5 : 5GHz  
+- 2 : 2GHz  
+- 52 : 5 dan 2GHz  
         
 Power per chain =  
 - Kosong = < 23dBm@6mbps 802.11a; <24dBm@6mbps 802.11g  
