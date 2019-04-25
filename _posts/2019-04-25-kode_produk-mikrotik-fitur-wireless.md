@@ -1,7 +1,13 @@
 ---
-published: false
+layout: post
+title: Cara Membaca Kode Produk Mikrotik Fitur Wireless
+categories: Jaringan
+tags:
+  - wireless
+  - mikrotik
+published: true
 ---
-## Cara Membaca Kode Produk Mikrotik Dalam Format Penulisan Fitur Wireless Mikrotik
+## Cara Membaca Kode Produk Mikrotik Fitur Wireless
 
 ![gb7.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/gb7.png)
 
