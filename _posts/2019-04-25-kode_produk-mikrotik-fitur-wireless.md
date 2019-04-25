@@ -3,10 +3,10 @@ published: false
 ---
 ## Cara Membaca Kode Produk Mikrotik Dalam Format Penulisan Fitur Wireless Mikrotik
 
-![gb7.png]({{site.baseurl}}/_posts/gb7.png)
+![gb7.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/gb7.png)
 
 Cara membaca format penulisan dalam fitur wireless mikrotik : BAND – Power per chain– Protocol – Number Chain
-![gb9.png]({{site.baseurl}}/_posts/gb9.png)
+![gb9.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/gb9.png)
 
 BAND =  
 Bandwith ada 3 yaitu :  
