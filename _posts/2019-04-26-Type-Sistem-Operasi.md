@@ -1,6 +1,12 @@
 ---
-published: false
+layout: post
+title: Tipe Sistem Operasi
+categories: sistem operasi
+tags:
+  - sistem operasi
+published: true
 ---
+
 ## Real Time  
 Sistem Operasi Real Time adalah berjalan secara sceduling sehingga dapat berperilaku seperti yang telah ditetapkan. Tujuan utamanya adalah agar bisa bekerja dengan respons cepat dan dapat diprediksi dalam berbagai kejadian. Sistem operasi ini di rancang berdasarkan aktifitas yang terjadi (event-driven) atau secara beurut sesuai waktu yang telah ditetapkan (time-sharing). Sebuah sistem event-driven melakukan pertukaran tugas berdasarkan prioritas atau kejadian dari luar, sementara sistem time-sharing melakukan pertukaran tugas berdasarkan waktu permintaan pada mikroprocessor
 
