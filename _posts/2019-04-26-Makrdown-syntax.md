@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Syntaxt
+title: Markdown Syntax
 categories: markdown
 tags:
   - markdown
