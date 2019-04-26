@@ -2,7 +2,7 @@
 published: false
 ---
 
-##Headings  
+## Headings  
 
 | Markdown        | Html           | Output  |
 | ------------- |:-------------:| -----:|
@@ -14,17 +14,17 @@ published: false
 | #### Heading level 6   | `<h6>Heading level 1</h6>` | <h6>Heading level 1</h6> |
 
 
-##Paragraphs  
+## Paragraphs  
 | Markdown        | Html           | Output  |
 | ------------- |:-------------:| -----|
 | I really like using Markdown.   | `<p>I really like using Markdown.</p>` | <p>I really like using Markdown.</p>|
 | I think I'll use it to format all of my documents from now on. | `<p>I think I'll use it to format all of my documents from now on.</p>` | <p>I think I'll use it to format all of my documents from now on.</p> |
 
 
-##Line Breaks  
+## Line Breaks  
 gunakan 2 spasi diakhir kalimat dan enter.  
 
-##Table  
+## Table  
 ```
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -42,28 +42,28 @@ gunakan 2 spasi diakhir kalimat dan enter.
 ------------- untuk align right
 ```
 
-##Bold  
+## Bold  
 | Markdown | Html | Output |
 | ------------- |:-------------:| -----|
 |  ```I just love **bold text**.```  | `I just love <b>bold text</b>.` | I just love <b>bold text</b>. |
 |  ```I just love __bold text__.```  | `I just love <b>bold text</b>.` | I just love <b>bold text</b>. |
 | ```Love**is**bold```| `Love<b>is</b>bold` | Love<b>is</b>bold |
 
-##Italic  
+## Italic  
 | Markdown | Html | Output |
 | ------------- |:-------------:| -----|
 |  ```Italicized text is the *cat's meow*.```  | `Italicized text is the <i>cat's meow</i>.` | Italicized text is the <i>cat's meow</i>. |
 |  ```Italicized text is the _cat's meow_.```  | `Italicized text is the <i>cat's meow</i>.` | Italicized text is the <i>cat's meow</i>. |
 |  ```A*cat*meow```  | `A<i>cat</i>meow.` | A<i>cat</i>meow |
 
-##Blockquotes  
+## Blockquotes  
 Markdown :  
 `` > Dorothy followed her through many of the beautiful rooms in her castle. ``  
 
 Ouput :  
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
-##Blockquotes with Other Elements
+## Blockquotes with Other Elements
 Markdown :  
 ```
 > #### The quarterly results look great!
@@ -82,7 +82,7 @@ Ouput :
 >
 >  *Everything* is going according to **plan**.
 
-##Ordered Lists
+## Ordered Lists
 Markdown :
 ```
 1. First item
@@ -115,7 +115,7 @@ Ouput :
    2. Indented item
 4. Fourth item
 
-##Unordered Lists
+## Unordered Lists
 Markdown :
 ```
 - First item
@@ -168,7 +168,7 @@ Ouput :
 *   And here's the third list item.
 
 
-##Code Blocks
+## Code Blocks
 Markdown :
 ```
 1.  Open the file.
@@ -193,7 +193,7 @@ Ouput :
 
 3.  Update the title to match the name of your website.
 
-##Code
+## Code
 Markdown :
 ```
 At the command prompt, type `nano`.
@@ -228,7 +228,7 @@ But let's throw in a <b>tag</b>.
 ```
 
 
-##Horizontal Rules
+## Horizontal Rules
 Markdown :
 ```
 ---
@@ -238,7 +238,7 @@ Ouput :
 
 ---
 
-##Links
+## Links
 Markdown :
 ```
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
@@ -248,7 +248,7 @@ Ouput :
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
-####Adding Titles
+#### Adding Titles
 Markdown :
 ```
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
@@ -256,9 +256,9 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 
 Ouput :  
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-
-####URLs and Email Addresses
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").  
+ 
+#### URLs and Email Addresses
 Markdown :
 ```
 <https://www.markdownguide.org>  
@@ -269,7 +269,7 @@ Ouput :
 <https://www.markdownguide.org>  
 <fake@example.com>
 
-##Images
+## Images
 Markdown :
 ```
 ![Killua so cool!](https://vignette.wikia.nocookie.net/hunter-x-hunter-fanon/images/a/a9/BABC6A23-98EF-498E-9D0E-3EBFC7ED8626.jpeg/revision/latest?cb=20170930221652 "Killua")
@@ -278,7 +278,7 @@ Markdown :
 Ouput :  
 ![Killua so cool!](https://vignette.wikia.nocookie.net/hunter-x-hunter-fanon/images/a/a9/BABC6A23-98EF-498E-9D0E-3EBFC7ED8626.jpeg/revision/latest?cb=20170930221652 "Killua")
 
-##Linking Images
+## Linking Images
 Markdown :
 ```
 [![Killua so cool!](https://vignette.wikia.nocookie.net/hunter-x-hunter-fanon/images/a/a9/BABC6A23-98EF-498E-9D0E-3EBFC7ED8626.jpeg/revision/latest?cb=20170930221652 "Killua")](https://vignette.wikia.nocookie.net/hunter-x-hunter-fanon/images/a/a9/BABC6A23-98EF-498E-9D0E-3EBFC7ED8626.jpeg/revision/latest?cb=20170930221652)
