@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Markdown Syntaxt
+categories: markdown
+tags:
+  - markdown
+published: true
 ---
 
 ## Headings  
