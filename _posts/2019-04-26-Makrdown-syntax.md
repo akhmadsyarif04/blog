@@ -42,7 +42,7 @@ gunakan 2 spasi diakhir kalimat dan enter.
 ```
 
 ##Bold  
-| Markdown        | Html           | Output  |
+| Markdown | Html | Output |
 | ------------- |:-------------:| -----|
 |  ```I just love **bold text**.```  | `I just love <b>bold text</b>.` | I just love <b>bold text</b>. |
 |  ```I just love __bold text__.```  | `I just love <b>bold text</b>.` | I just love <b>bold text</b>. |
