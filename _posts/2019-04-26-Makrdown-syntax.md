@@ -49,7 +49,7 @@ gunakan 2 spasi diakhir kalimat dan enter.
 | ```Love**is**bold```| `Love<b>is</b>bold` | Love<b>is</b>bold |
 
 ##Italic  
-| Markdown        | Html           | Output  |
+| Markdown | Html | Output |
 | ------------- |:-------------:| -----|
 |  ```Italicized text is the *cat's meow*.```  | `Italicized text is the <i>cat's meow</i>.` | Italicized text is the <i>cat's meow</i>. |
 |  ```Italicized text is the _cat's meow_.```  | `Italicized text is the <i>cat's meow</i>.` | Italicized text is the <i>cat's meow</i>. |
