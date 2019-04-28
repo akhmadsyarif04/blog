@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Heuristic Search
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 ## Heuristic Search
 
