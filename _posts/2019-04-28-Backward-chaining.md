@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Backward Chaining
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 ## Backward Chaining
 
