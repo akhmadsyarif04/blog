@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Uncertainty (ketidakpastian)
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 ## Uncertainty (ketidakpastian)
 
