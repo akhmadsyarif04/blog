@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Teknik Dasar Pencarian AI
-categories: Artificial Intelligent (AI)
+categories: Artificial Intelligent
 tags:
  - AI
 published: true
