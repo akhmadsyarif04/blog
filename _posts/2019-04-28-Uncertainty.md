@@ -49,3 +49,14 @@ jadi bagaimana kita melakukan penalaran ketidakpastian dan dengan pengetahuan ya
 3. probabilitas
   - obyektif (perhitungan frekuensi)
   - subyektif (pengalaman manusia)
+
+
+## Penyelesaian Ketidakpastian
+Teori Penyelesaian Ketidakpastian :
+- probabilitas klasik (classical probability)
+- probabilitas Bayes (Bayesian probability)
+- teori Hartley berdasarkan himpunan klasik (Hartley theory based on classical sets)
+- teori Shannon berdasarkan pada probabilitas (Shanon theory based on probability)
+- teori Dempster-Shafer (Dempster-Shafer theory)
+- teori fuzzy Zadeh (Zadeh’s fuzzy theory)
+- faktor kepastian (certainty factor).
