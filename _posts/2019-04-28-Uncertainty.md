@@ -28,6 +28,7 @@ Sumber dari ketidakpastian :
   - noisy
   
 2. ketidakpastian pengetahuan
+Keterbatasan dalam ilmu pengetahuan yang dimiliki.
 
 3. representasi ketidakpastian pengetahuan 
 Representasi adalah proses dimana sebuah objek ditangkap oleh indra seseorang, lalu masuk ke akal untuk diproses yang hasilnya adalah sebuah konsep/ide yang dengan bahasa akan disampaikan/diungkapkan kembali. Dan setiap orang beda-beda dalam menangkap semua objek menjadi ide sehingga menjadi tidak pasti.
