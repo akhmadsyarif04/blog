@@ -20,7 +20,11 @@ Probabilitas yang rendah menunjukkan kecilnya kemungkinan suatu peristiwa akan t
 
 Untuk mengetahui besarnya kemungkinan dihitung dari prosentase jumlah premis yang dialami :
 
+![1.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/1.png)
+
 Untuk mengetahui besarnya kemungkinan dihitung dari prosentase jumlah bobot premis yang dialami :
+
+![2.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/2.png)
 
 Probabilitas Klasik yaitu pendekatan berdasarkan pada sebuah peristiwa mempunyai kesempatan untuk terjadi sama besar (equally likely). Probabilitas suatu peristiwa kemudian dinyatakan sebagai suatu rasio antara jumlah kemungkinan hasil dengan total kemungkinan hasil (rasio peristiwa terhadap hasil).
 
@@ -57,7 +61,11 @@ Sebagai keterangan tambahan kita juga mengetahui bahwa peluang seorang pria bera
 Di sini kita mengasumsikan bahwa seseorang itu adalah pria atau wanita, atau P(M) = 1 - P(W) = 0,5. Dengan kata lain M adalah kejadian komplemen dari W.  
 Tujuan kita adalah menghitung peluang seseorang itu adalah wanita bila diketahui dia berambut panjang, atau dalam notasi yang kita gunakan, P(W|L). Menggunakan teorema Bayes, kita mendapatkan: 
 
+![3.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/3.png)
+
 Di sini kita menggunakan aturan peluang total. Dengan memasukkan nilai-nilai peluang yang diketahui ke dalam rumus di atas, kita mendapatkan peluang seseorang itu wanita bila diketahui dia berambut panjang adalah 0,714. Angka ini sesuai dengan intuisi awal kita, bahwa peluang kawan kita itu bercakap-cakap dengan wanita meningkat. 
 Secara umum, teorema bayes dinyatakan sebagai : 
+
+![4.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/4.png)
 
 Dalam notasi ini P(A|B) berarti peluang kejadian A bila B terjadi dan P(B|A) peluang kejadian B bila A terjadi.
