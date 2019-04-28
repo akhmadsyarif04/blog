@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Depft First Search
+categories: Artificial Intelligent (AI)
+tags:
+ - AI
+published: true
 ---
 ## Depft First Search
 
