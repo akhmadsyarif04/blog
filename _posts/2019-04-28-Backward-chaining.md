@@ -22,8 +22,8 @@ Urutan langkah backward chaining :
 
 Metode backward chaining merupakan cara yang efisien untuk memecahkan masalah yang dimodelkan  sebagai masalah pemilihan struktur. Tujuannya mengambil pilihan terbaik dari banyak kemungkinan. Metode runut balik cocok diterapkan untuk memecahkan masalah diagnosis. Contoh :  
 
-Lampu1 rusak,
-If Lampu1 dinyalakan
-And lampu1 tidak menyala
-And lampu1 dihubungkan dengan sekring
-And sekring masih bagus
+Lampu1 rusak,  
+If Lampu1 dinyalakan  
+And lampu1 tidak menyala  
+And lampu1 dihubungkan dengan sekring  
+And sekring masih bagus  
