@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Sistem Pakar
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 ## Definisi Sistem Pakar
 
@@ -7,7 +12,7 @@ Sistem Pakar adalah sistem informasi pada komputer yang menggunakan pengetahuan,
 
 ## Arsitektur System Pakar
 
-![sistem pakar.jpg]({{site.baseurl}}/_posts/sistem pakar.jpg)
+![sistem pakar.jpg](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/sistem pakar.jpg)
 
 1. Basis Pengetahuan (Knowledge Base)
 Basis pengetahuan adalah tempat menyimpan informasi dari pengetahuan seorang pakar. Berisi fakta-fakta yang didapat dari seorang yang ahli dan diimplementasikan kedalam sistem komputer dengan menggunakan metode representasi pengetahuan tertentu. Metode representasi pengetahuan adalah cara untuk menstruktur pengetahuan yang dimiliki oleh pakar agara mudah diolah oleh komputer.  
