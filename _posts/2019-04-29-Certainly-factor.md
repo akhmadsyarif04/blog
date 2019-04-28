@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Certainly Factor
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 ## Certainly Factor
            	
