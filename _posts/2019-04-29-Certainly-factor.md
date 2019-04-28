@@ -27,3 +27,16 @@ Jika semua evidence diketahui dengan pasti maka persamaannya akan menjadi:
 Dalam aplikasinya, CF (H,E) merupakan nilai kepastian yang diberikan oleh pakar terhadap suatu aturan, sedangkan CF(E,e) merupakan nilai kepercayaan yang diberikan oleh pengguna terhadap gejala yang dialaminya.  
 
 Definisi menurut David McAllister Certainty Factor adalah suatu metode untuk membuktikan apakah suatu fakta itu pasti ataukah tidak pasti yang berbentuk metric yang biasanya digunakan dalam sistem pakar.
+
+![DeepinScreenshot_select-area_20190429042714.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190429042714.png)
+
+Bentuk dasar rumus certainty factor, adalah sebuah aturan JIKA E MAKA H, ada 2 hal yang mungkin terjadi :  
+![CF1.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/CF1.png)
+
+(a) Beberapa evidence dikombinasikan untuk menentukan CF dari suatu hipotesis, Jika e1 dan e2 adalah observasi maka untuk menentukan CF dengan rumus :
+
+![DeepinScreenshot_select-area_20190429042919.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190429042919.png)
+
+(b) CF dihitung dari kombinasi beberapa hipotesis jika h1 dan h2 adalah hipotesis, maka untuk menentukan CF dengan rumus :
+
+![DeepinScreenshot_select-area_20190429042950.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/DeepinScreenshot_select-area_20190429042950.png)
