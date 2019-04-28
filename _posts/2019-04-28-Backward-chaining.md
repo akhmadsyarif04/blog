@@ -5,7 +5,10 @@ published: false
 
 Backward chaining adalah pelacakan kebelakang (atau kebalikan dari forward chaining) yang memulai penalarannya dari kesimpulan (goal), dengan mencari sekumpulan hipotesa-hipotesa menuju fakta-fakta yang mendukung sekumpulan hipotesa-hipotesa tersebut. Berikut gambaran proses penalaran metode backward chaining :  
 
-Urutan langkah backward chaining :
+![backward chaining.png](https://raw.githubusercontent.com/akhmadsyarif04/blog/gh-pages/_posts/backward chaining.png)
+
+
+Urutan langkah backward chaining :  
 1. Sistem akan melist dalam memori daftar konklusi yang ada.
 2. Masing-masing konklusi secara sekuensial dicari premisnya.
 3. Masing-masing premis di tanyakan ke user.
