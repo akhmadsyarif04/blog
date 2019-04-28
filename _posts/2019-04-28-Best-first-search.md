@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Best First Search
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 ## Best First Search
 Best First Search memilih simpul baru pada level yang lebih rendah, jika ternyata node pada level yang lebih tinggi ternyata memiliki nilai heuristic yang lebih buruk. Terdapat 2 jenis algoritma pada Best First Search : 
