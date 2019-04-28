@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Artificial Intelligent Part 1 Penjelasan Artificial Intelligent
-categories: AI
+title:      Penjelasan Artificial Intelligent
+categories: Artificial Intelligent (AI)
 tags:
  - AI
 published: true
