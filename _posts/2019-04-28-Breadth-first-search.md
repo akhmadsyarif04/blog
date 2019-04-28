@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Breadth First Search
+categories: Artificial Intelligent (AI)
+tags:
+ - AI
+published: true
 ---
 ## Breadth First Search
 
