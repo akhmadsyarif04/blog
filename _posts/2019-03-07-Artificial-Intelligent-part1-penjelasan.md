@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Penjelasan Artificial Intelligent
-categories: Artificial Intelligent (AI)
+categories: Artificial Intelligent 
 tags:
  - AI
 published: true
