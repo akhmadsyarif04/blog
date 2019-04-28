@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Teknik Dasar Pencarian AI
+categories: Artificial Intelligent (AI)
+tags:
+ - AI
+published: true
 ---
 ## Teknik Dasar Pencarian
 
