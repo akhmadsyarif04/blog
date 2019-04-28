@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Breadth First Search
-categories: Artificial Intelligent (AI)
+categories: Artificial Intelligent
 tags:
  - AI
 published: true
