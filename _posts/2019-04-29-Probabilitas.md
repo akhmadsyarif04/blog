@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Probabilitas
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 ## Probabilitas
 
