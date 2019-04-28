@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      Forward Chaining
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 ## Forward Chaining
 
