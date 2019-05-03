@@ -8,7 +8,7 @@ published: true
 ---
 ## Perintah Dasar Linux atau Terminal
 
-###Files dan Navigating
+### Files dan Navigating
 
 | Command | Ket |   
 | ------------- |:-------------|
@@ -33,7 +33,7 @@ published: true
 | cat >> file | menambahkan teks ke dalam file  |
 | tail -f file  | menampilkan isi file  |
 
-###Networking
+### Networking
 
 | Command | Ket |   
 | ------------- |:-------------|
@@ -51,7 +51,7 @@ published: true
 | ssh -D user@host  | konek dan menggunakan port bind  |
 
 
-###Processes
+### Processes
 
 | Command | Ket |   
 | ------------- |:-------------|
@@ -61,7 +61,7 @@ published: true
 | killall proc  | mematikan semua proses dengan nama proc  |
 
 
-###System Info
+### System Info
 
 | Command | Ket |   
 | ------------- |:-------------|
@@ -77,7 +77,7 @@ published: true
 | df  | menampilkan disk yang digunakan  |
 | uname -a  | menampilkan kernel config  |
 
-###Compressing
+### Compressing
 
 | Command | Ket |   
 | ------------- |:-------------|
@@ -85,7 +85,7 @@ published: true
 | tar xf file.tar | extract  |
 | tar tf file.tar  | menampilkan isi dari tar  |
 
-###Permissions
+### Permissions
 
 | Command | Ket |   
 | ------------- |:-------------|
