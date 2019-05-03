@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Perintah Dasar Linux atau Terminal
+categories: sistem operasi
+tags:
+  - sistem operasi
+published: true
 ---
 ## Perintah Dasar Linux atau Terminal
 
