@@ -23,8 +23,8 @@ published: true
 
 | Markdown        | Html           | Output  |  
 | ------------- |:-------------:| -----:|
-| I really like using Markdown.   | `<p>I really like using Markdown.</p>` | <p>I really like using Markdown.</p>|
-| I think I'll use it to format all of my documents from now on. | `<p>I think I'll use it to format all of my documents from now on.</p>` | <p>I think I'll use it to format all of my documents from now on.</p> |  
+| I really like using Markdown.   | `<p>I really like....</p>` | <p>I really like using Markdown.</p>|
+| I think I'll use it to format all of my documents from now on. | `<p>I think I'll use...</p>` | <p>I think I'll use it to format all of my documents from now on.</p> |  
 
 
 ## Line Breaks  
