@@ -20,8 +20,9 @@ published: true
 
 
 ## Paragraphs  
+
 | Markdown        | Html           | Output  |  
-| ------------- |:-------------:| -----|  
+| ------------- |:-------------:| -----:|
 | I really like using Markdown.   | `<p>I really like using Markdown.</p>` | <p>I really like using Markdown.</p>|
 | I think I'll use it to format all of my documents from now on. | `<p>I think I'll use it to format all of my documents from now on.</p>` | <p>I think I'll use it to format all of my documents from now on.</p> |  
 
@@ -49,15 +50,17 @@ gunakan 2 spasi diakhir kalimat dan enter.
 ```
 
 ## Bold  
+
 | Markdown | Html | Output |
-| ------------- |:-------------:| -----|
+| ------------- |:-------------:| -----:|
 |  ```I just love **bold text**.```  | `I just love <b>bold text</b>.` | I just love <b>bold text</b>. |
 |  ```I just love __bold text__.```  | `I just love <b>bold text</b>.` | I just love <b>bold text</b>. |
 | ```Love**is**bold```| `Love<b>is</b>bold` | Love<b>is</b>bold |
 
 ## Italic  
+
 | Markdown | Html | Output |
-| ------------- |:-------------:| -----|
+| ------------- |:-------------:| -----:|
 |  ```Italicized text is the *cat's meow*.```  | `Italicized text is the <i>cat's meow</i>.` | Italicized text is the <i>cat's meow</i>. |
 |  ```Italicized text is the _cat's meow_.```  | `Italicized text is the <i>cat's meow</i>.` | Italicized text is the <i>cat's meow</i>. |
 |  ```A*cat*meow```  | `A<i>cat</i>meow.` | A<i>cat</i>meow |
