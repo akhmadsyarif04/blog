@@ -1,11 +1,17 @@
 ---
-published: false
+layout:     post
+title:      Ganti Mac Address Manual
+categories: linux
+tags:
+ - linux
+ - jaringan
+published: true
 ---
 ## Ganti Mac Address Manual
 
-Mengganti mac address manual : 
+Mengganti mac address manual :   
 `` ifconfig ``  
-pada contoh kali ini mac yang dirubah adalah mac eth0
+pada contoh kali ini mac yang dirubah adalah mac eth0  
 
 `` ifconfig eht0 down ``  
 matikan terlebih dulu eth0 nya.  
