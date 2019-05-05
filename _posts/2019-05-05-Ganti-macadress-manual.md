@@ -13,6 +13,7 @@ Mengganti mac address manual :
 
 `` ifconfig ``  
 pada contoh kali ini mac yang dirubah adalah mac eth0  
+
 `` ifconfig eht0 down ``  
 matikan terlebih dulu eth0 nya.  
 
@@ -22,5 +23,6 @@ masukan perintah untuk mengganti mac tersebut.
 
 `` ifconfig eth0 up ``  
 lalu dihidupkan lagi jaringan eth0 nya.  
+
 `` Ifconfig ``  
 dan sekarang lihat perubahan mac eth0.
