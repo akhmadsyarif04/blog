@@ -16,7 +16,7 @@ pada contoh kali ini mac yang dirubah adalah mac eth0
 `` ifconfig eht0 down ``  
 matikan terlebih dulu eth0 nya.  
 ``Ifconfig eth0 ether 00:11:2w:23:d1:3e``  
-> ifconfig <jaringan yang dirubah> <bagian yang rubah> <mac baru>  
+> ifconfig `<jaringan yang dirubah> <bagian yang rubah> <mac baru>`  
 
 `` ifconfig eth0 up ``  
 lalu dihidupkan lagi jaringan eth0 nya.  
