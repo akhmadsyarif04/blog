@@ -18,7 +18,8 @@ pada contoh kali ini mac yang dirubah adalah mac eth0
 matikan terlebih dulu eth0 nya.  
 
 ``Ifconfig eth0 ether 00:11:2w:23:d1:3e``  
-> `ifconfig <jaringan yang dirubah> <bagian yang rubah> <mac baru>`  
+> `ifconfig <jaringan yang dirubah> <bagian yang rubah> <mac baru>` 
+
 masukan perintah untuk mengganti mac tersebut.  
 
 `` ifconfig eth0 up ``  
