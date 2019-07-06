@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## A New Post
+## Scanning Network
 
 >> netdiscover -r 10.0.2.1/24
 
