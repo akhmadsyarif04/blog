@@ -14,8 +14,12 @@ Buat Resource
 >> php artisan make:resource QuestionResource
 
 ### Kedua
-pada controller yang bersangkutan tambahkan pada show seperti ini :  
+pada controller yang bersangkutan tambahkan/edit pada show dan index seperti ini :  
 ```php
+  public function index()
+    {
+        return QuestionResource::collection(Question::latest()->get()); // agar mengikuti aturan dari resource
+    }
   public function show(Question $question)
     {
         return new QuestionResource($question);
