@@ -12,7 +12,7 @@ Ketika kita mendapatkan ip address kita belum mmengetahui mana kah alamat pc lai
 
 misalnya, dari ringkup ip diatas tadi bisa kita broadcast(kirim pesan kesemua) siapa pemilik ip 192.168.1.1. Ketika ada komputer yang menggunakan ip tersebut maka dia akan mengatakan atau ngeresponse, jika diasumsikan seperti manusia seperti ini "ini ip saya". dari situ lah kita bisa mendapatkan mac dari ip tersebut. (note: mac adalah alamat yang digunakan berkomunikasi didalam jaringan). 
 
->> ketika kita berkomunikasi didalam jaringan, itu menggunakan ARP (address resolution protokol).
+>> cara berkomunikasi ini didalam jaringan menggunakan ARP (address resolution protokol).
 
 
 >> route -n
