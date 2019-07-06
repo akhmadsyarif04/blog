@@ -14,6 +14,8 @@ misalnya, dari ringkup ip diatas tadi bisa kita broadcast(kirim pesan kesemua) s
 
 >> ketika kita berkomunikasi didalam jaringan, itu menggunakan ARP (address resolution protokol).
 
+
+>> route -n
 ```
-route -n
+Untuk mengetahui routing jaringan
 ```
