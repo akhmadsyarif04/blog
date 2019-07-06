@@ -40,3 +40,5 @@ Pada models yang bersangkutan tambahkan :
       return asset("api/question/$this->slug");
     }
 ```
+
+secara lengkap lihat pada project : [https://github.com/akhmadsyarif04/Real-Time-Single-Page-Forum-App-with-Pusher-Laravel-vuejs](https://github.com/akhmadsyarif04/Real-Time-Single-Page-Forum-App-with-Pusher-Laravel-vuejs)
