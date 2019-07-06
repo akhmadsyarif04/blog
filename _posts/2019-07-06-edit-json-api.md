@@ -1,7 +1,13 @@
 ---
+layout: post
+title: Edit Send Request API Json
+categories: Laravel
+tags:
+  - laravel
+  - php
 published: true
 ---
-## A New Post
+## Edit Send Request API Json
 
 ### Pertama
 Buat Resource
