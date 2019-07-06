@@ -17,5 +17,5 @@ misalnya, dari ringkup ip diatas tadi bisa kita broadcast(kirim pesan kesemua) s
 
 >> route -n
 ```
-Untuk mengetahui routing jaringan
+Untuk mengetahui routing pada jaringan yang digunakan
 ```
