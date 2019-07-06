@@ -30,13 +30,13 @@ pada controller yang bersangkutan tambahkan/edit pada show dan index seperti ini
 ### Ketiga
 Pada Resource tambahkan seperti ini :  
 ```php
-   public function toArray($request)
+     public function toArray($request)
     {
         return [
           'title' => $this->title, // kolom pada table database question
           'path' => $this->path,
           'body' => $this->body,
-          'created_at' => $this->created_at,
+          'created_at' => $this->created_at->diffForHumans(),
           'user' => $this->user->name // ambil dari function user yang ada pada models questions yg telah direlasikan
         ];
         // kenapa name karena pada tabel questions telah direlasikan ke user jadi bisa didapatkan name user, ini untuk menghindari users tau id user tersebut ketka dikirim dengan API
