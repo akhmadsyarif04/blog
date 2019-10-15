@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Mengenal Relay Arduino
+categories: Arduino
+tags:
+  - Arduino
+published: true
 ---
 ## Relay Pada Arduino
 
