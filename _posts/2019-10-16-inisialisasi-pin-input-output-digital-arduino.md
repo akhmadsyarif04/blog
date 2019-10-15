@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Inisialisasi Pin I/O Digital
+categories: Arduino
+tags:
+  - Arduino
+published: true
 ---
 ## Inisialisasi Pin I/O Digital
 
