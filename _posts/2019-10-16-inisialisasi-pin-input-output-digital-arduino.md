@@ -17,3 +17,4 @@ Contoh :
 >> pinMode(2, OUTPUT);
 
 
+Pada perintah pertama adalah pin digital 1 Arduino diatur menjadi pin input. Pada perintah kedua adalah pin digital 2 Arduino diatur menjadi pin ouput. Untuk mengatur keadaan suatu pin yang telah diatur sebagai  pin ouput pada arduino
