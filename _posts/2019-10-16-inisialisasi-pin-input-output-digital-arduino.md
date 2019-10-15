@@ -7,8 +7,8 @@ Inisialisasi mode suatu pin I/O digunakan untuk mengatur penggunaan mode pin apa
 
 ``
 pinMode(pin, mode);  
-// pin->nomor pin  
-// mode-> INPUT atau OUTPUT
+// pin = nomor pin  
+// mode = INPUT atau OUTPUT  
 ``
 
 Contoh :  
@@ -17,4 +17,26 @@ Contoh :
 >> pinMode(2, OUTPUT);
 
 
-Pada perintah pertama adalah pin digital 1 Arduino diatur menjadi pin input. Pada perintah kedua adalah pin digital 2 Arduino diatur menjadi pin ouput. Untuk mengatur keadaan suatu pin yang telah diatur sebagai  pin ouput pada arduino
+Pada perintah pertama adalah pin digital 1 Arduino diatur menjadi pin input. Pada perintah kedua adalah pin digital 2 Arduino diatur menjadi pin ouput. Untuk mengatur keadaan suatu pin yang telah diatur sebagai  pin ouput pada arduino, misalnya keadaan HIGH atau LOW pada suatu pin dapat digunakan sintaks berikut :  
+``
+digitalWrite(pin, value);  
+// pin = nomor pin  
+// value = HIGH atau LOW  
+``
+
+Contoh :  
+>> digitalWrite(3, HIGH);
+
+>> digitalWrite(4, LOW);
+
+
+Pada perintah 1 digital pin 3 arduino diberi ouput dengan keadaan HIGH, sedangkan perintah 2 digital 4 arduino diberi ouput dengan keadaan LOW.  
+
+Untuk membaca nilai atau keadaan pin tertentu pada arduino yang telah diatur sebagai pin INPUT dapat menggunakan sintaks berikut :  
+
+``
+int digitalRead(pin);  
+// pin = nomor pin  
+``
+
+Perintah diatas akan mengembalikan nilai HIGH dan LOW.
