@@ -18,3 +18,40 @@ Ada 2 aturan perhitungan pada decibel yaitu :
 2. Kelipan 10x yang dinyatakan dengan 10dB  
 
 contoh :  
+nilai referensi yang digunakan adalah 0 milliwatt. Artinya, 1 milliwatt = 0 dBm.  
+Kelipatan dari 1 adalah 2 sehingga 2 milliwatt = 3dBm (karena kelipan 2 dinyatakan dengan 3dB). 4 milliwatt = 6 dBm dan seterusnya.  
+kelipatan 10. 1 mW = 0 dBm dan 10 mW = 10dBm, 100mW = 20dBm dan seterusnya.
+
+| dBm       | mW     | 
+| ------------- |:-------------:| 
+| 0 dBm | 1.0 mW | 
+| 1 dBm  | 1.3 mW |
+| 2 dBm  | 1.6 mW |
+| 3 dBm  | 2.0 mW |
+| 4 dBm  | 2.5 mW |
+| 5 dBm  | 3.2 mW |
+| 6 dBm  | 4.0 mW |
+| 7 dBm  | 5.0 mW |
+| 8 dBm  | 6.3 mW |
+| 9 dBm  | 7.9 mW |
+| 10 dBm  | 10.0 mW |
+| 11 dBm  | 12.6 mW |
+| 12 dBm  | 15.8 mW |
+| 13 dBm  | 20.0 mW |
+| 14 dBm  | 25.1 mW |
+| 15 dBm  | 31.6 mW |
+| 16 dBm  | 39.8 mW |
+| 17 dBm  | 50.1 mW |
+| 18 dBm  | 63.1 mW |
+| 19 dBm  | 79.4 mW |
+| 20 dBm  | 100.0 mW |
+| 21 dBm  | 125.9 mW |
+| 22 dBm  | 158.5 mW |
+| 23 dBm  | 199.5 mW |
+| 24 dBm  | 251.2 mW |
+| 25 dBm  | 316.2 mW |
+| 26 dBm  | 398.1 mW |
+| 27 dBm  | 501.2 mW |
+| 28 dBm  | 631.0 mW |
+| 29 dBm  | 794.3 mW |
+| 30 dBm  | 1000 mW |
