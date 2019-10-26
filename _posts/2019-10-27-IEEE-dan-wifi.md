@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Mengenal IEEE dan Wi-Fi
+categories: Jaringan
+tags:
+  - wireless
+published: true
 ---
 ## IEEE dan Wi-Fi
 
