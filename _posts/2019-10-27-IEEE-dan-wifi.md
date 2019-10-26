@@ -20,3 +20,4 @@ Pada tahun 1980 bulan 2, IEEE membuat sebuah bagian yang mengurusi standarisasi 
 | 802.21   | Media Independent Handoff Working Group | 
 | 802.22   | Wireless Regional Area Networks | 
 
+unit kerja diatas akan terbagi lagi menjadi huruf a,b,c dan seterus nya seperti 802.11a,802.11b,802.11g dst.
