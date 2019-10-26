@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Perhitungan Kekuatan Sinyal
+categories: Jaringan
+tags:
+  - wireless
+published: true
 ---
 ## Perhitungan Kekuatan Sinyal
 Untuk menghitung kekuatan sinya diperlukan pengetahuan frekwensi. Frekwensi mempunyai jarak tempuh yang ditentukan oleh beberapa hal yang salah satunya adalah power atau tenang pemancaran. Untuk bisa memperpanjang jarak tempuh maka tinggal menambahkan tenaga pemancar agar lebih kuat. Dalam penambahan tenaga pemancar akan memiliki efek yaitu noise sampai mengganggu data yang dikirimkan. Akan tetapi ada kebijakan yang mengatur kekuatan karena kekuatan signal akan berpotensi mengganggu signal lain yang menggunakan frekwensi sama.
