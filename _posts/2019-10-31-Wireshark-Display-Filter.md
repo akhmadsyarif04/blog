@@ -78,4 +78,34 @@ published: true
 37. ip.version
 
 # TCP
-1. 
+1. tcp.ack
+2. tcp.checksum
+3. tcp.checksum_bad
+4. tcp.checksum_good
+5. tcp.continuation_to
+6. tcp.dstport
+7. tcp.flags
+8. tcp.flags.ack
+9. tcp.flags.cwr
+10. tcp.flags.ecn
+11. tcp.flags.fin
+12. tcp.flags.push
+13. tcp.flags.reset
+14. tcp.flags.syn
+15. tcp.flags.urg
+16. tcp.hdr_len
+17. tcp.len
+18. tcp.nxtseq
+19. tcp.options
+20. tcp.options.ccecho
+21. tcp.options.ccnew
+22. tcp.options.echo
+23. tcp.options.echo_replay
+24. tcp.options.md5
+25. tcp.options.mss
+26. tcp.options.mss_val
+27. tcp.options.qs
+28. tcp.options.sack
+29. tcp.options.sack_le
+30. tcp.options.sack_perm
+31. tcp.options.sack_re
