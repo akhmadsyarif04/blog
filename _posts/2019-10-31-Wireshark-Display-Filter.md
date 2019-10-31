@@ -9,15 +9,19 @@ published: true
 ## Wireshark Display Filter
 
 # Ethernet
-| Ethernet       | 
-| ------------- |
-| eth.addr |
-| eth.dst |
-| eth.ig | 
-| eth.len | 
-| eth.lg | 
-| eth.multicast |
-| eth.src |
-| eth.trailer | 
-| eth.type | 
+1. eth.addr
+2. eth.dst
+3. eth.ig
+4. eth.len
+5. eth.lg
+6. eth.multicast
+7. eth.src
+8. eth.trailer
+9. eth.type
 
+# ARP
+1. arp.dst.hw_mac
+2. arp.dst.proto_ipv4
+3. arp.hw.size
+4. arp.hw.type
+5. 
