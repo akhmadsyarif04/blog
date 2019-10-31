@@ -65,3 +65,17 @@ published: true
 24. ip.host
 25. ip.id
 26. ip.len
+27. ip.proto
+28. ip.reassembled_in
+29. ip.src
+30. ip.src_host
+31. ip.tos
+32. ip.tos.cost
+33. ip.tos.delay
+34. ip.tos.precedence
+35. ip.tos.throughput
+36. ip.ttl
+37. ip.version
+
+# TCP
+1. 
