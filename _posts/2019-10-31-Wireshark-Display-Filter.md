@@ -130,3 +130,12 @@ published: true
 50. tcp.time_relative
 51. tcp.urgent_pointer
 52. tcp.window_size
+
+# UDP
+1. udp.checksum
+2. udp.checksum_bad
+3. udp.checksum_good
+4. udp.dstport
+5. udp.length
+6. udp.port
+7. udp.srvport
