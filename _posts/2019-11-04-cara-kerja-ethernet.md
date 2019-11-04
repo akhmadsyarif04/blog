@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Cara Kerja Ethernet
+categories: Jaringan
+tags:
+  - ethernet
+published: true
 ---
 ## Cara Kerja Ethernet
 
