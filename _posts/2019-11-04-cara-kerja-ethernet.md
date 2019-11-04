@@ -22,3 +22,5 @@ FUll Duplex adalah penggunaan pasangan kabel(frekuensi) yang berbeda untuk mengi
 ```
 Half Duplex atau disebut juga Simplex adalah penggunaan pasangan kabel(frekuensi) yang sama untuk mengirimkan dan menerima data. Jadi peralatan yang akan mengirim data biasanya akan menunggu giliran sampai yakin bahwa jalur yang akan digunakan bersih atau tidak ada yang menggunakan.
 ```
+
+Pendeteksi error dan mekanisme retransmisi berusaha menjamin bahwa data akan mencapai tujuan. Tentu saja kecepatan data akan rendah dan error akan tinggi, jika sebuah NIC (Network Internet Card) full-duplex berbicara dengan NIC half-duplex. Pada NIC modern biasanya akan melakukan auto-negosiasi duplex diantara card jaringan.
