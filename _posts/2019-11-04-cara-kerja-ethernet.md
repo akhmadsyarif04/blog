@@ -7,6 +7,6 @@ Pada dasarnya penggunaan ethernet adalah berbagi kabel. Yaitu lebih dari 2 buah 
 	
 Begitu juga jaringan ethernet ini, ketika ada 2 komunikasi atau proses data (baik pengiriman/penerimaan) dalam 1 jaringan/kabel maka akan terjadi tabrakan (collision). Sebelum card ethernet melakukan pengiriman data, dia harus mendeteksi lebih dulu ada tidaknya card lain yang sedang menggunakan kabel atau jaringan. Jika tidak ada maka data akan dikirimkan. Jikda ada card ethernet akan menunggu sampai kabel atau jaringan dalam keadaan kosong. Collision dideteksi oleh card dengan memeriksa kabel, yang mana jika tegangan pada kabel melebihi batas tertentu berarti terjadi collision.  
 
-Ketika collision terjadi masing-masing dari card akan berhenti melakukan pengiriman data dan menunggu lagi dengan selang waktu yang acak untuk mencoba mengirim kembali data. Selang waktu acak yang ada pada pengiriman ketika terjadi collision ini memungkinkan collision lebih lanjut menjadi lebih kecil. Proses tersebut dikenal dengan CSMA/CD (Carrier Sense Mulple Access/Collision Detection).
+Ketika collision terjadi masing-masing dari card akan berhenti melakukan pengiriman data dan menunggu lagi dengan selang waktu yang acak untuk mencoba mengirim kembali data. Selang waktu acak yang ada pada pengiriman ketika terjadi collision ini memungkinkan collision lebih lanjut menjadi lebih kecil. Proses tersebut dikenal dengan CSMA/CD (Carrier Sense Mulple Access/Collision Detection).  
 
 
