@@ -9,4 +9,4 @@ Begitu juga jaringan ethernet ini, ketika ada 2 komunikasi atau proses data (bai
 
 Ketika collision terjadi masing-masing dari card akan berhenti melakukan pengiriman data dan menunggu lagi dengan selang waktu yang acak untuk mencoba mengirim kembali data. Selang waktu acak yang ada pada pengiriman ketika terjadi collision ini memungkinkan collision lebih lanjut menjadi lebih kecil. Proses tersebut dikenal dengan CSMA/CD (Carrier Sense Mulple Access/Collision Detection).  
 
-
+Untuk mengenali dan membedakan setiap card ethernet telah tertera kode khusus sepanjang 48 bit, yang dikernal sebagai ethernet address atau MAC Address.
