@@ -14,6 +14,9 @@ Konsep klasifikasi dengan SVM dapat dijelaskan secara sederhana sebagai usaha me
 
 Hyperlane (batas keputusan) pemisah terbaik antara dua kelas dapat ditemukan dengan mengukur margin Hyperlane tersebut dan mencari titik maksimalnya. Margin adalah jarak antara Hyperlane dengan data terdekat dari masing-masing kelas. Data yang paling dekat disebut sebagai _Support Vector_. Garis solid pada gambar diatas (b) menunjukan Hyperlane yang terbaik, yaitu terletak tepat pada tengah-tengah kedua kelas, sedangkan data lingkaran dan bujur sangkar yang melewati garis batas margin (garis putus-putus) adalah _Support Vector_. Usaha untuk mencari lokasi Hyperlane ini merupakan inti dari proses pelatihan pada SVM.
 
+## SVM Nonlinear
+
+
 
 
 Sumber : _Buku Data Mining Mengolah data menjadi informasi menggunakan MATLAB_
