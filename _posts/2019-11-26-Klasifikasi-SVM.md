@@ -15,7 +15,7 @@ Konsep klasifikasi dengan SVM dapat dijelaskan secara sederhana sebagai usaha me
 Hyperlane (batas keputusan) pemisah terbaik antara dua kelas dapat ditemukan dengan mengukur margin Hyperlane tersebut dan mencari titik maksimalnya. Margin adalah jarak antara Hyperlane dengan data terdekat dari masing-masing kelas. Data yang paling dekat disebut sebagai _Support Vector_. Garis solid pada gambar diatas (b) menunjukan Hyperlane yang terbaik, yaitu terletak tepat pada tengah-tengah kedua kelas, sedangkan data lingkaran dan bujur sangkar yang melewati garis batas margin (garis putus-putus) adalah _Support Vector_. Usaha untuk mencari lokasi Hyperlane ini merupakan inti dari proses pelatihan pada SVM.
 
 ## SVM Nonlinear
-
+SVM terdapat Linear dan Nonlinear (kernel trick). Seperti halnya perceptron, SVM sebenarnya adalah Hyperline liear yang hanya bekerja pada data yang dapat dipisahkan secara linear. Untuk data yang distribusi kelasnya nonlinear biasanya menggundakan pendekatan kernel pada fitur data awal set data. Kernel dapat didefinisikan sebagai suatu fungsi yang memetakan fitur data dari dimensi awal(rendah) ke fitur baru dengan dimensi yang relatif lebih tinggi (bahkan jauh lebih tinggi). Pendekatan ini berbeda dengan metode klasifikasi pada umumnya yang justru mengurangi dimensi awal untuk menyederhanakan proses komputasi dan memberikan akurasi prediksi yang lebih baik.
 
 
 
