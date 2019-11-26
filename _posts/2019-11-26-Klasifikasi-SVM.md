@@ -12,7 +12,7 @@ Ide dasar dari SVM adalah memaksimalkan batas Hyperlane, yang di ilustrasikan pa
 
 Konsep klasifikasi dengan SVM dapat dijelaskan secara sederhana sebagai usaha mencari Hyperlane terbaik yang berfungsi sebagai pemisah duah buah kelas data pada input space (Nugroho, 2007). Gambar diatas memperlihatkan beberapa data yang merupakan anggota dari dua buah kelas data yaitu +1 dan -1. Data yang tergabung pada kelas -1 disimbolkan dengan bentuk lingkaran, sedangkan data pada kelas +1 disimbolkan dengan bentuk bujur sangkar.  
 
-Hyperlane (batas keputusan) pemisah terbaik antara dua kelas dapat ditemukan dengan mengukur margin Hyperlane tersebut dan mencari titik maksimalnya. Margin adalah jarak antara Hyperlane dengan data terdekat dari masing-masing kelas. Data yang paling dekat disebut sebagai _Support Vector_. Garis solid pada gambar diatas (b)
+Hyperlane (batas keputusan) pemisah terbaik antara dua kelas dapat ditemukan dengan mengukur margin Hyperlane tersebut dan mencari titik maksimalnya. Margin adalah jarak antara Hyperlane dengan data terdekat dari masing-masing kelas. Data yang paling dekat disebut sebagai _Support Vector_. Garis solid pada gambar diatas (b) menunjukan Hyperlane yang terbaik, yaitu terletak tepat pada tengah-tengah kedua kelas, sedangkan data lingkaran dan bujur sangkar yang melewati garis batas margin (garis putus-putus) adalah _Support Vector_.
 
 
 
