@@ -1,5 +1,10 @@
 ---
-published: false
+layout:     post
+title:      SVM (Support Vector Machine)
+categories: Artificial-Intelligent
+tags:
+ - AI
+published: true
 ---
 # SVM (Support Vector Machine)
 
