@@ -24,7 +24,8 @@ Berikut beberapa pilihan fungsi kernel yang banyak digunakan dalam aplikasi :
 4. Sigmoid (Tangen Hiperbolik)
 5. Invers Multiquadric
 
-
+## SVM Multikelas
+Metode klasifikasi seperti Decision Tree, Artificial Neural Network, Nearest Neighbor didesain untuk dapat melakukan klasifikasi multikelas sekaligus. tetapi SVM tidak. SVM hanya dapat melakukan klasifikasi biner (2 kelas).  Sementara didalam kenyataan umumnya mempunyai banyak kelas seperti pengenalan karakter, pengenalan wajah, atau diagnosis pasien dimana data masukan terbagi menjadi lebih dari dua kelas. 
 
 
 
