@@ -17,6 +17,15 @@ Hyperlane (batas keputusan) pemisah terbaik antara dua kelas dapat ditemukan den
 ## SVM Nonlinear
 SVM terdapat Linear dan Nonlinear (kernel trick). Seperti halnya perceptron, SVM sebenarnya adalah Hyperline liear yang hanya bekerja pada data yang dapat dipisahkan secara linear. Untuk data yang distribusi kelasnya nonlinear biasanya menggundakan pendekatan kernel pada fitur data awal set data. Kernel dapat didefinisikan sebagai suatu fungsi yang memetakan fitur data dari dimensi awal(rendah) ke fitur baru dengan dimensi yang relatif lebih tinggi (bahkan jauh lebih tinggi). Pendekatan ini berbeda dengan metode klasifikasi pada umumnya yang justru mengurangi dimensi awal untuk menyederhanakan proses komputasi dan memberikan akurasi prediksi yang lebih baik.
 
+Berikut beberapa pilihan fungsi kernel yang banyak digunakan dalam aplikasi :
+1. Linear
+2. Polynomial
+3. Gaussian RBF
+4. Sigmoid (Tangen Hiperbolik)
+5. Invers Multiquadric
+
+
+
 
 
 Sumber : _Buku Data Mining Mengolah data menjadi informasi menggunakan MATLAB_
